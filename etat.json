@@ -123,10 +123,10 @@
           "note": "Issue #6 : Pipeline pixel art, rendu basse résolution et palette (M) ; backlog v0.1 suffisant (#6-#8), bug #10 mineur, dette #16"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-17T22:45:21.324Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-17T22:58:46.260Z",
+          "note": "PR #17 : pipeline pixel art (cible 1/3, passe palette 34 couleurs, ADR 0007), CI verte"
         }
       },
       "issue": 6,
