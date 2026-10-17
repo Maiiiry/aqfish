@@ -121,6 +121,12 @@
           "debut": "2026-10-17T21:48:25.345Z",
           "fin": "2026-10-17T21:49:36.788Z",
           "note": "Issue #6 : Pipeline pixel art, rendu basse résolution et palette (M) ; backlog v0.1 suffisant (#6-#8), bug #10 mineur, dette #16"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-17T22:45:21.324Z",
+          "fin": null,
+          "note": null
         }
       },
       "issue": 6
