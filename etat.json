@@ -117,10 +117,10 @@
       "type": "fonctionnalite",
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-17T21:48:25.345Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-17T21:49:36.788Z",
+          "note": "Issue #6 : Pipeline pixel art, rendu basse résolution et palette (M) ; backlog v0.1 suffisant (#6-#8), bug #10 mineur, dette #16"
         }
       },
       "issue": 6
