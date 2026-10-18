@@ -378,10 +378,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T18:11:50.383Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T18:12:36.388Z",
+          "note": "Issue #28 : évitement des parois et des obstacles (M)"
         }
       },
       "metriques": {}
