@@ -573,6 +573,12 @@
           "debut": "2026-10-18T22:50:22.633Z",
           "fin": "2026-10-18T23:41:49.149Z",
           "note": "PR #54 corrigée (mesure relative, CI verte ×2, a-corriger retirée) ; PR #56 corydora (#31), dépend de #54, CI verte"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T23:42:13.797Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
