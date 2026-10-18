@@ -306,10 +306,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T16:20:19.909Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T16:21:09.049Z",
+          "note": "Issue #33 : filtre pixel art désactivable (idee-mathis) (M)"
         }
       },
       "metriques": {}
