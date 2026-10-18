@@ -162,10 +162,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T13:00:47.420Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T13:01:21.053Z",
+          "note": "Issue #8 : Première espèce qui nage, le néon (M)"
         }
       },
       "metriques": {}
