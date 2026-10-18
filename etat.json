@@ -234,10 +234,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T14:24:33.162Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T14:25:06.559Z",
+          "note": "Issue #16 : dette boucle de simulation + #20 (M)"
         }
       },
       "metriques": {}
