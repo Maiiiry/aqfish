@@ -342,10 +342,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T17:06:56.430Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T17:07:34.938Z",
+          "note": "Issue #27 : comportement de banc (M)"
         }
       },
       "metriques": {}
