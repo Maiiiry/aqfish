@@ -259,6 +259,24 @@
         }
       },
       "metriques": {}
+    },
+    "6": {
+      "numero": 6,
+      "date": "2026-10-18",
+      "debut": "2026-10-18T15:19:47.206Z",
+      "type": "retro",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T15:19:47.206Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
