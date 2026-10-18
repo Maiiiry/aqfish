@@ -540,10 +540,10 @@
           "note": "Verdict RÉSERVES (#40 non livré, annoncé), 0 bug, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T22:45:36.481Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T22:48:47.383Z",
+          "note": "corrections demandées sur #54 (CI rouge : test de durée flocking.spec 5,16 s > 5 s) ; v0.2.6 préparée dans la PR ; dette #55"
         }
       },
       "metriques": {
