@@ -456,10 +456,10 @@
           "note": "Issue #30 : deuxième espèce, le guppy (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T20:02:53.350Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T20:32:18.763Z",
+          "note": "PR #46 : guppy mâle/femelle (ADR 0013), CI verte ; néons identiques au pixel près"
         }
       },
       "metriques": {}
