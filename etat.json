@@ -270,10 +270,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T15:19:47.206Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T15:21:03.023Z",
+          "note": "Issue #32 : Rétro sprint 1 + bugs #10 #22 #23 (M) ; backlog v0.2 #27-#31"
         }
       },
       "metriques": {}
