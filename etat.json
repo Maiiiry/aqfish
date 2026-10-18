@@ -141,10 +141,10 @@
           "note": "PR #17 fusionnée → v0.1.2 (CI main verte, release créée par la CI)"
         },
         "superviseur": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T04:48:09.464Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T04:50:59.131Z",
+          "note": "Rapport publié (journal + issue #2), 0 alerte bloquante"
         }
       },
       "issue": 6,
