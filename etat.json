@@ -534,10 +534,10 @@
           "note": "PR #54 : tracé des trajectoires + nage plus près des vitres (#43), CI verte ; #40 non traitée (reste ouverte)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T22:36:06.161Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T22:45:02.009Z",
+          "note": "Verdict RÉSERVES (#40 non livré, annoncé), 0 bug, captures publiées"
         }
       },
       "metriques": {
