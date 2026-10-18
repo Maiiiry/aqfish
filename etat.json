@@ -286,6 +286,12 @@
           "debut": "2026-10-18T15:56:04.085Z",
           "fin": "2026-10-18T16:06:48.199Z",
           "note": "Verdict OK sur PR #37, 0 bug, captures identiques publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T16:07:13.324Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
