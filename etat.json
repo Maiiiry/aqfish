@@ -424,6 +424,12 @@
           "debut": "2026-10-18T19:14:46.315Z",
           "fin": "2026-10-18T19:37:14.256Z",
           "note": "PR #45 : ondulation selon la vitesse (sim/undulation.ts), CI verte ; lecture individuelle des queues sur top limitée par le banc serré"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T19:37:40.208Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
