@@ -388,6 +388,12 @@
           "debut": "2026-10-18T18:13:05.674Z",
           "fin": "2026-10-18T18:47:21.608Z",
           "note": "PR #42 : évitement des parois et des obstacles (forces de proximité, ADR 0012), CI verte ; capture side de trajectoires à confirmer par QA"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T18:47:49.630Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
