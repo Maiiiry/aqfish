@@ -280,6 +280,12 @@
           "debut": "2026-10-18T15:21:35.490Z",
           "fin": "2026-10-18T15:55:34.694Z",
           "note": "PR #37 : bugs #10 (pan borné), #22 (barre 390 px), #23 (bouton actif réel), captures identiques, CI verte"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T15:56:04.085Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
