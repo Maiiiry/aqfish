@@ -526,6 +526,12 @@
           "debut": "2026-10-18T21:45:34.034Z",
           "fin": "2026-10-18T21:47:20.580Z",
           "note": "Issue #53 : Rétro sprint 2 (M) ; #48 à #52 créées pour v0.3"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T21:47:47.220Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
