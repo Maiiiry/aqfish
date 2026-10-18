@@ -532,6 +532,12 @@
           "debut": "2026-10-18T21:47:47.220Z",
           "fin": "2026-10-18T22:35:38.575Z",
           "note": "PR #54 : tracé des trajectoires + nage plus près des vitres (#43), CI verte ; #40 non traitée (reste ouverte)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T22:36:06.161Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {
