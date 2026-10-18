@@ -303,7 +303,7 @@
       "type": "fonctionnalite",
       "issue": 33,
       "pr": 39,
-      "version": null,
+      "version": "v0.2.0",
       "phases": {
         "planif": {
           "statut": "termine",
