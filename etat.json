@@ -139,6 +139,12 @@
           "debut": "2026-10-18T01:13:45.743Z",
           "fin": "2026-10-18T01:22:30.548Z",
           "note": "PR #17 fusionnée → v0.1.2 (CI main verte, release créée par la CI)"
+        },
+        "superviseur": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T04:48:09.464Z",
+          "fin": null,
+          "note": null
         }
       },
       "issue": 6,
