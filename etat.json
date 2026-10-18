@@ -151,6 +151,24 @@
         "ciMain": "success",
         "mutation": null
       }
+    },
+    "3": {
+      "numero": 3,
+      "date": "2026-10-18",
+      "debut": "2026-10-18T13:00:47.420Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T13:00:47.420Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
