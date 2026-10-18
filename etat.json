@@ -250,6 +250,12 @@
           "debut": "2026-10-18T14:46:23.185Z",
           "fin": "2026-10-18T15:01:38.854Z",
           "note": "Verdict OK sur PR #24, 0 bug, captures identiques publiées ; Stryker en place (PR #25), score 75.36 %, dette #26"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T15:02:06.107Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
