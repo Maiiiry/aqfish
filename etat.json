@@ -460,6 +460,12 @@
           "debut": "2026-10-18T20:02:53.350Z",
           "fin": "2026-10-18T20:32:18.763Z",
           "note": "PR #46 : guppy mâle/femelle (ADR 0013), CI verte ; néons identiques au pixel près"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T20:32:44.168Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
