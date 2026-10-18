@@ -482,7 +482,7 @@
       "debut": "2026-10-18T20:55:10.938Z",
       "type": "dette",
       "issue": 44,
-      "pr": null,
+      "pr": 47,
       "version": null,
       "phases": {
         "planif": {
