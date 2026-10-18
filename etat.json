@@ -127,6 +127,12 @@
           "debut": "2026-10-17T22:45:21.324Z",
           "fin": "2026-10-17T22:58:46.260Z",
           "note": "PR #17 : pipeline pixel art (cible 1/3, passe palette 34 couleurs, ADR 0007), CI verte"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T00:14:09.400Z",
+          "fin": null,
+          "note": null
         }
       },
       "issue": 6,
