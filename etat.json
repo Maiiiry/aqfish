@@ -318,10 +318,10 @@
           "note": "PR #39 : filtre pixel art désactivable (bouton, P, filtre=), CI verte ; critère >34 couleurs remplacé (20 couleurs sans filtre)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T16:44:06.288Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T16:53:14.872Z",
+          "note": "Verdict OK sur PR #39, 0 bug bloquant, captures publiées (+ sans filtre)"
         }
       },
       "metriques": {}
