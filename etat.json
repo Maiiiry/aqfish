@@ -475,6 +475,24 @@
         }
       },
       "metriques": {}
+    },
+    "12": {
+      "numero": 12,
+      "date": "2026-10-18",
+      "debut": "2026-10-18T20:55:10.938Z",
+      "type": "dette",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T20:55:10.938Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
