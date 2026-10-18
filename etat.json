@@ -316,6 +316,12 @@
           "debut": "2026-10-18T16:21:37.280Z",
           "fin": "2026-10-18T16:43:34.597Z",
           "note": "PR #39 : filtre pixel art désactivable (bouton, P, filtre=), CI verte ; critère >34 couleurs remplacé (20 couleurs sans filtre)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T16:44:06.288Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
