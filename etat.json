@@ -348,10 +348,10 @@
           "note": "Issue #27 : comportement de banc (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T17:08:00.987Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T17:45:03.807Z",
+          "note": "PR #41 : comportement de banc (boids, espacement min, néon ×12), CI verte ; capture three-quarter à regarder par QA"
         }
       },
       "metriques": {}
