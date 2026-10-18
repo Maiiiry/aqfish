@@ -528,10 +528,10 @@
           "note": "Issue #53 : Rétro sprint 2 (M) ; #48 à #52 créées pour v0.3"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T21:47:47.220Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T22:35:38.575Z",
+          "note": "PR #54 : tracé des trajectoires + nage plus près des vitres (#43), CI verte ; #40 non traitée (reste ouverte)"
         }
       },
       "metriques": {
