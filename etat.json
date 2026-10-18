@@ -174,10 +174,10 @@
           "note": "PR #19 : première espèce qui nage, le néon (ADR 0009), CI verte"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T13:24:40.197Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T13:29:30.109Z",
+          "note": "Verdict OK sur PR #19, 0 bug, 5 e2e néons ajoutés (03e50a3), captures publiées"
         }
       },
       "metriques": {}
