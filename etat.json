@@ -483,7 +483,7 @@
       "type": "dette",
       "issue": 44,
       "pr": 47,
-      "version": null,
+      "version": "v0.2.5",
       "phases": {
         "planif": {
           "statut": "termine",
