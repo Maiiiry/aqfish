@@ -265,7 +265,7 @@
       "date": "2026-10-18",
       "debut": "2026-10-18T15:19:47.206Z",
       "type": "retro",
-      "issue": null,
+      "issue": 32,
       "pr": null,
       "version": null,
       "phases": {
