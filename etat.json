@@ -216,10 +216,10 @@
           "note": "Verdict OK sur PR #21, 1 bug mineur (#22 barre débordante à 390 px), 1 e2e ajouté (83ba823), captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T14:13:49.773Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T14:24:05.047Z",
+          "note": "PR #21 fusionnée → v0.1.4 (CI main verte, release créée par la CI) ; dette #23"
         }
       },
       "metriques": {}
