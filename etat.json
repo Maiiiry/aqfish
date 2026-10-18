@@ -569,10 +569,10 @@
           "note": "Issue #31 : Troisième espèce, le corydora (M allégée) ; Dev corrige d'abord PR #54"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T22:50:22.633Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T23:41:49.149Z",
+          "note": "PR #54 corrigée (mesure relative, CI verte ×2, a-corriger retirée) ; PR #56 corydora (#31), dépend de #54, CI verte"
         }
       },
       "metriques": {}
