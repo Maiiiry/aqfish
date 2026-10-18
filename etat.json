@@ -360,10 +360,10 @@
           "note": "Verdict OK sur PR #41, 0 bug, test e2e banc ajouté, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T18:01:03.430Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T18:11:16.119Z",
+          "note": "PR #41 fusionnée → v0.2.1 (release CI OK), CI main verte"
         }
       },
       "metriques": {}
