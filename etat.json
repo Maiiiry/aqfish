@@ -432,10 +432,10 @@
           "note": "Verdict OK sur PR #45, 0 bug, e2e ondulation ajouté, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T19:45:02.353Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T20:01:24.781Z",
+          "note": "PR #45 fusionnée → v0.2.3 (release CI OK, CI main verte)"
         }
       },
       "metriques": {}
