@@ -354,10 +354,10 @@
           "note": "PR #41 : comportement de banc (boids, espacement min, néon ×12), CI verte ; capture three-quarter à regarder par QA"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T17:45:32.550Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T18:00:33.992Z",
+          "note": "Verdict OK sur PR #41, 0 bug, test e2e banc ajouté, captures publiées"
         }
       },
       "metriques": {}
