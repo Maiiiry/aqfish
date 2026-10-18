@@ -579,6 +579,12 @@
           "debut": "2026-10-18T23:42:13.797Z",
           "fin": "2026-10-18T23:49:42.051Z",
           "note": "Verdict OK, 0 bug, 1 remarque de lisibilité (corydoras superposés), e2e profondeur ajouté, captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T23:50:10.805Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
