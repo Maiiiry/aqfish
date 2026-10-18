@@ -210,10 +210,10 @@
           "note": "PR #21 : barre des préréglages de vue et raccourcis 1 à 5, CI verte"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T14:03:02.283Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T14:13:22.975Z",
+          "note": "Verdict OK sur PR #21, 1 bug mineur (#22 barre débordante à 390 px), 1 e2e ajouté (83ba823), captures publiées"
         }
       },
       "metriques": {}
