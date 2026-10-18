@@ -538,6 +538,12 @@
           "debut": "2026-10-18T22:36:06.161Z",
           "fin": "2026-10-18T22:45:02.009Z",
           "note": "Verdict RÉSERVES (#40 non livré, annoncé), 0 bug, captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T22:45:36.481Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {
