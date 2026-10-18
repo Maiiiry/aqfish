@@ -567,6 +567,12 @@
           "debut": "2026-10-18T22:49:11.578Z",
           "fin": "2026-10-18T22:49:58.334Z",
           "note": "Issue #31 : Troisième espèce, le corydora (M allégée) ; Dev corrige d'abord PR #54"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T22:50:22.633Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
