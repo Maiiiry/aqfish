@@ -322,6 +322,12 @@
           "debut": "2026-10-18T16:44:06.288Z",
           "fin": "2026-10-18T16:53:14.872Z",
           "note": "Verdict OK sur PR #39, 0 bug bloquant, captures publiées (+ sans filtre)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T16:53:39.500Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
