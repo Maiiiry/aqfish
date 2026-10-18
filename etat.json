@@ -390,10 +390,10 @@
           "note": "PR #42 : évitement des parois et des obstacles (forces de proximité, ADR 0012), CI verte ; capture side de trajectoires à confirmer par QA"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T18:47:49.630Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T18:57:11.609Z",
+          "note": "Verdict RÉSERVES sur PR #42 (capture side sans trajectoires le long de la paroi), 0 bug, e2e evitement ajouté, captures publiées"
         }
       },
       "metriques": {}
