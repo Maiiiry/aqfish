@@ -1,19 +1,21 @@
 {
-  "schema": 1,
+  "schema": 2,
   "pause": false,
   "motifPause": null,
   "experience": {
     "premiereNuit": "2026-10-15",
-    "finsDePhase": [
-      "2026-11-11",
-      "2026-12-09",
-      "2027-01-06"
-    ],
-    "issueRapport": 2
+    "issueRapport": 2,
+    "plafondParJour": 12
   },
-  "nuits": {
-    "2026-10-15": {
+  "cycles": {
+    "0": {
+      "numero": 0,
+      "date": "2026-10-15",
+      "debut": "2026-10-15T23:54:41.516Z",
       "type": "fonctionnalite",
+      "issue": 4,
+      "pr": 9,
+      "version": null,
       "phases": {
         "planif": {
           "statut": "termine",
@@ -38,16 +40,8 @@
           "debut": "2026-10-16T00:21:58.247Z",
           "fin": "2026-10-16T00:28:35.737Z",
           "note": "PR #9 fusionnée (a907dc4, CI main verte) ; tag v0.1.0 refusé par l'environnement (403), release à faire par Mathis ; dette #11"
-        },
-        "superviseur": {
-          "statut": "termine",
-          "debut": "2026-10-16T04:48:33.494Z",
-          "fin": "2026-10-16T04:50:05.891Z",
-          "note": "Rapport publié, 5 alertes (aucune version publiée : #12 attend Mathis)"
         }
       },
-      "issue": 4,
-      "pr": 9,
       "metriques": {
         "livre": true,
         "version": null,
@@ -62,8 +56,14 @@
         "mutation": null
       }
     },
-    "2026-10-16": {
+    "1": {
+      "numero": 1,
+      "date": "2026-10-16",
+      "debut": "2026-10-16T21:48:04.226Z",
       "type": "fonctionnalite",
+      "issue": 5,
+      "pr": 15,
+      "version": "v0.1.1",
       "phases": {
         "planif": {
           "statut": "termine",
@@ -88,17 +88,8 @@
           "debut": "2026-10-17T01:14:12.018Z",
           "fin": "2026-10-17T01:20:18.770Z",
           "note": "PR #15 fusionnée → v0.1.1 (release CI OK, main verte) ; dette #16 ; suppression de la branche refusée par l'environnement (403)"
-        },
-        "superviseur": {
-          "statut": "termine",
-          "debut": "2026-10-17T04:48:24.936Z",
-          "fin": "2026-10-17T04:51:14.087Z",
-          "note": "Rapport publié (journal + issue #2), 0 alerte bloquante, 3 points d'attention"
         }
       },
-      "issue": 5,
-      "pr": 15,
-      "version": "v0.1.1",
       "metriques": {
         "livre": true,
         "version": "v0.1.1",
@@ -113,8 +104,14 @@
         "mutation": null
       }
     },
-    "2026-10-17": {
+    "2": {
+      "numero": 2,
+      "date": "2026-10-17",
+      "debut": "2026-10-17T21:48:25.345Z",
       "type": "fonctionnalite",
+      "issue": 6,
+      "pr": 17,
+      "version": "v0.1.2",
       "phases": {
         "planif": {
           "statut": "termine",
@@ -139,17 +136,73 @@
           "debut": "2026-10-18T01:13:45.743Z",
           "fin": "2026-10-18T01:22:30.548Z",
           "note": "PR #17 fusionnée → v0.1.2 (CI main verte, release créée par la CI)"
-        },
-        "superviseur": {
-          "statut": "termine",
-          "debut": "2026-10-18T04:48:09.464Z",
-          "fin": "2026-10-18T04:50:59.131Z",
-          "note": "Rapport publié (journal + issue #2), 0 alerte bloquante"
         }
       },
-      "issue": 6,
-      "pr": 17,
-      "version": "v0.1.2",
+      "metriques": {
+        "livre": true,
+        "version": "v0.1.2",
+        "tests": 211,
+        "testsE2e": 35,
+        "couvertureLignes": 97.97,
+        "lignesCode": 1351,
+        "bugsOuverts": 1,
+        "prAjouts": 913,
+        "prSuppressions": 11,
+        "ciMain": "success",
+        "mutation": null
+      }
+    }
+  },
+  "jours": {
+    "2026-10-15": {
+      "rapport": {
+        "statut": "termine",
+        "debut": "2026-10-16T04:48:33.494Z",
+        "fin": "2026-10-16T04:50:05.891Z",
+        "note": "Rapport publié, 5 alertes (aucune version publiée : #12 attend Mathis)"
+      },
+      "metriques": {
+        "livre": true,
+        "version": null,
+        "tests": 87,
+        "testsE2e": 17,
+        "couvertureLignes": 96.29,
+        "lignesCode": 746,
+        "bugsOuverts": 1,
+        "prAjouts": 1446,
+        "prSuppressions": 39,
+        "ciMain": "success",
+        "mutation": null
+      }
+    },
+    "2026-10-16": {
+      "rapport": {
+        "statut": "termine",
+        "debut": "2026-10-17T04:48:24.936Z",
+        "fin": "2026-10-17T04:51:14.087Z",
+        "note": "Rapport publié (journal + issue #2), 0 alerte bloquante, 3 points d'attention"
+      },
+      "metriques": {
+        "livre": true,
+        "version": "v0.1.1",
+        "tests": 173,
+        "testsE2e": 26,
+        "couvertureLignes": 97.3,
+        "lignesCode": 1067,
+        "bugsOuverts": 1,
+        "prAjouts": 964,
+        "prSuppressions": 18,
+        "ciMain": "success",
+        "mutation": null
+      }
+    },
+    "2026-10-17": {
+      "rapport": {
+        "statut": "termine",
+        "debut": "2026-10-18T04:48:09.464Z",
+        "fin": "2026-10-18T04:50:59.131Z",
+        "note": "Rapport publié (journal + issue #2), 0 alerte bloquante"
+      },
       "metriques": {
         "livre": true,
         "version": "v0.1.2",
