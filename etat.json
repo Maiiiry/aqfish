@@ -426,10 +426,10 @@
           "note": "PR #45 : ondulation selon la vitesse (sim/undulation.ts), CI verte ; lecture individuelle des queues sur top limitée par le banc serré"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T19:37:40.208Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T19:44:39.320Z",
+          "note": "Verdict OK sur PR #45, 0 bug, e2e ondulation ajouté, captures publiées"
         }
       },
       "metriques": {}
