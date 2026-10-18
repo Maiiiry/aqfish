@@ -498,10 +498,10 @@
           "note": "PR #47 : délai explicite du test du banc (#44) + pan e2e 29→11 s (#38), CI verte"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T21:19:39.181Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T21:31:05.781Z",
+          "note": "Verdict OK sur PR #47, 0 bug, captures publiées"
         }
       },
       "metriques": {}
