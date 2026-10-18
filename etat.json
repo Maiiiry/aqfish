@@ -490,6 +490,12 @@
           "debut": "2026-10-18T20:55:10.938Z",
           "fin": "2026-10-18T20:55:38.488Z",
           "note": "Issue #44 : test du banc instable en CI, + #38 si place (S)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T20:56:03.011Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
