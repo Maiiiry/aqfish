@@ -1,6 +1,6 @@
-# Captures c012
+# Captures c013
 
-- Branche : cycle/c012-delai-test-banc (PR #47)
-- Commit : d904c50
-- Graine : 42 ; temps simulé : 30 s ; 1280×720, pixel ratio 1
-- Remarque : les 6 images sont identiques octet pour octet à c011 (aucun code de rendu ni de simulation modifié).
+- Branche : cycle/c013-trajectoires-vitres (PR #54)
+- Commit : 9a7cace
+- Graine : 42 ; temps simulé : 30 s ; 1280×720, pixel ratio 1 ; tracé : 60 s
+- Remarque : `bottom.png` identique à c012 ; les autres angles ne diffèrent que par la position des poissons (réglage de la nage). `trajectoires-top.png` : nouveau tracé SVG.
