@@ -492,10 +492,10 @@
           "note": "Issue #44 : test du banc instable en CI, + #38 si place (S)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T20:56:03.011Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T21:19:14.003Z",
+          "note": "PR #47 : délai explicite du test du banc (#44) + pan e2e 29→11 s (#38), CI verte"
         }
       },
       "metriques": {}
