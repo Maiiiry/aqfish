@@ -166,6 +166,12 @@
           "debut": "2026-10-18T13:00:47.420Z",
           "fin": "2026-10-18T13:01:21.053Z",
           "note": "Issue #8 : Première espèce qui nage, le néon (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T13:01:51.660Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
