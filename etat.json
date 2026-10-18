@@ -534,7 +534,12 @@
           "note": null
         }
       },
-      "metriques": {}
+      "metriques": {
+        "testsUnitaires": 645,
+        "e2e": 68,
+        "couvertureSimLignes": 100,
+        "lignesHorsTests": 4287
+      }
     }
   },
   "jours": {
