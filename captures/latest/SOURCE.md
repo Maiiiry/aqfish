@@ -1,5 +1,4 @@
-Cycle 6 — QA
-Branche : cycle/c006-retro-bugs (PR #37), commit a773156
-Graine : 42 (défaut), time par défaut de `npm run captures`
-Produit le 2026-10-18, rendu logiciel (SwiftShader)
-Comparaison : identique octet pour octet à la série du cycle 5 sur les 5 angles.
+Cycle 7 — QA
+- Branche : cycle/c007-filtre-pixel-art (PR #39), commit 8f12eb3938bec8cbc37e21396cb468882fa65d5a
+- Graine 42, temps par défaut du harnais (npm run captures)
+- 5 angles identiques octet pour octet à captures/latest ; ajout three-quarter-sans-filtre.png (filtre=aucun)
