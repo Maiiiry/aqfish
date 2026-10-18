@@ -240,10 +240,10 @@
           "note": "Issue #16 : dette boucle de simulation + #20 (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T14:25:36.676Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T14:45:51.422Z",
+          "note": "PR #24 : boucle sans allocation, temps sans dérive, couches par espèce (#16, #20), captures identiques, CI verte"
         }
       },
       "metriques": {}
