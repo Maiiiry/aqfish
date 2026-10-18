@@ -133,6 +133,12 @@
           "debut": "2026-10-18T00:14:09.400Z",
           "fin": "2026-10-18T00:34:06.490Z",
           "note": "Verdict OK sur PR #17, 0 bug, 5 e2e pixel art ajoutés (878acd9, CI verte), captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T01:13:45.743Z",
+          "fin": null,
+          "note": null
         }
       },
       "issue": 6,
