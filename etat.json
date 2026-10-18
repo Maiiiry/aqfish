@@ -375,7 +375,7 @@
       "type": "fonctionnalite",
       "issue": 28,
       "pr": 42,
-      "version": null,
+      "version": "v0.2.2",
       "phases": {
         "planif": {
           "statut": "termine",
