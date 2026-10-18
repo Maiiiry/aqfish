@@ -282,10 +282,10 @@
           "note": "PR #37 : bugs #10 (pan borné), #22 (barre 390 px), #23 (bouton actif réel), captures identiques, CI verte"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T15:56:04.085Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T16:06:48.199Z",
+          "note": "Verdict OK sur PR #37, 0 bug, captures identiques publiées"
         }
       },
       "metriques": {}
