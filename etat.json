@@ -430,6 +430,12 @@
           "debut": "2026-10-18T19:37:40.208Z",
           "fin": "2026-10-18T19:44:39.320Z",
           "note": "Verdict OK sur PR #45, 0 bug, e2e ondulation ajouté, captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T19:45:02.353Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
