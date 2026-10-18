@@ -149,7 +149,20 @@
       },
       "issue": 6,
       "pr": 17,
-      "version": "v0.1.2"
+      "version": "v0.1.2",
+      "metriques": {
+        "livre": true,
+        "version": "v0.1.2",
+        "tests": 211,
+        "testsE2e": 35,
+        "couvertureLignes": 97.97,
+        "lignesCode": 1351,
+        "bugsOuverts": 1,
+        "prAjouts": 913,
+        "prSuppressions": 11,
+        "ciMain": "success",
+        "mutation": null
+      }
     }
   }
 }
