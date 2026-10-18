@@ -168,10 +168,10 @@
           "note": "Issue #8 : Première espèce qui nage, le néon (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T13:01:51.660Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T13:24:14.521Z",
+          "note": "PR #19 : première espèce qui nage, le néon (ADR 0009), CI verte"
         }
       },
       "metriques": {}
