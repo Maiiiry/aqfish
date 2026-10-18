@@ -384,10 +384,10 @@
           "note": "Issue #28 : évitement des parois et des obstacles (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T18:13:05.674Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T18:47:21.608Z",
+          "note": "PR #42 : évitement des parois et des obstacles (forces de proximité, ADR 0012), CI verte ; capture side de trajectoires à confirmer par QA"
         }
       },
       "metriques": {}
