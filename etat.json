@@ -252,10 +252,10 @@
           "note": "Verdict OK sur PR #24, 0 bug, captures identiques publiées ; Stryker en place (PR #25), score 75.36 %, dette #26"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T15:02:06.107Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T15:19:21.077Z",
+          "note": "PR #24 fusionnée → v0.1.5, PR #25 (Stryker) fusionnée → v0.1.6 ; CI main verte, releases créées par la CI"
         }
       },
       "metriques": {}
