@@ -358,6 +358,12 @@
           "debut": "2026-10-18T17:45:32.550Z",
           "fin": "2026-10-18T18:00:33.992Z",
           "note": "Verdict OK sur PR #41, 0 bug, test e2e banc ajouté, captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T18:01:03.430Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
