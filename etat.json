@@ -208,6 +208,12 @@
           "debut": "2026-10-18T13:41:24.415Z",
           "fin": "2026-10-18T14:02:30.496Z",
           "note": "PR #21 : barre des préréglages de vue et raccourcis 1 à 5, CI verte"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T14:03:02.283Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
