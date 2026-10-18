@@ -468,10 +468,10 @@
           "note": "Verdict OK sur PR #46, 0 bug, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T20:40:20.147Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T20:54:42.418Z",
+          "note": "PR #46 fusionnée → v0.2.4 (release CI OK, CI main verte)"
         }
       },
       "metriques": {}
