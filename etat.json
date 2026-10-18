@@ -198,10 +198,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T13:39:57.776Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T13:40:52.909Z",
+          "note": "Issue #7 : Barre de préréglages de vue et raccourcis clavier (S)"
         }
       },
       "metriques": {}
