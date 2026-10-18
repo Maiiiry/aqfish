@@ -324,10 +324,10 @@
           "note": "Verdict OK sur PR #39, 0 bug bloquant, captures publiées (+ sans filtre)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T16:53:39.500Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-18T17:06:32.265Z",
+          "note": "PR #39 fusionnée → v0.2.0 (release CI OK), CI main verte ; dette #40 (teintes sans filtre)"
         }
       },
       "metriques": {}
