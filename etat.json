@@ -552,6 +552,24 @@
         "couvertureSimLignes": 100,
         "lignesHorsTests": 4287
       }
+    },
+    "14": {
+      "numero": 14,
+      "date": "2026-10-19",
+      "debut": "2026-10-18T22:49:11.578Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-18T22:49:11.578Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
