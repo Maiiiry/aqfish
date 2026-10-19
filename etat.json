@@ -677,10 +677,10 @@
           "note": "Issue #50 : Bulles, reflet de surface et caustiques (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T02:34:41.584Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T03:08:21.322Z",
+          "note": "PR #61 : bulles, caustiques et reflet de surface (#50), CI verte ; ~430 lignes de code hors commentaires (660 brutes, au-delà de l'indicatif 600)"
         }
       },
       "metriques": {}
