@@ -999,7 +999,7 @@
       "date": "2026-10-20",
       "debut": "2026-10-19T22:59:00.123Z",
       "type": "dette",
-      "issue": null,
+      "issue": 85,
       "pr": null,
       "version": null,
       "phases": {
