@@ -641,10 +641,10 @@
           "note": "Issue #49 : Plantes qui ondulent (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T01:10:02.015Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T02:03:36.974Z",
+          "note": "PR #60 : plantes qui ondulent (#49), CI verte ; perf : rejets exacts d'obstacles ; délai explicite test 10k pas"
         }
       },
       "metriques": {}
