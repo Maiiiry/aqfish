@@ -747,6 +747,12 @@
           "debut": "2026-10-19T05:37:18.004Z",
           "fin": "2026-10-19T05:37:48.448Z",
           "note": "Issue #64 : dette jour/nuit, poissons/sable de nuit, lightAt (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T05:38:24.235Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
