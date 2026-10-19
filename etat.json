@@ -795,6 +795,9 @@
         "tests": 904,
         "fichiersTests": 39,
         "e2e": 95,
+        "couverture": 99.39,
+        "couvertureSim": 99.9,
+        "lignes": 7006,
         "mutationAblanc": "ok",
         "mutationScore": null
       }
