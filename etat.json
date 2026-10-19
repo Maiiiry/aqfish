@@ -974,10 +974,10 @@
           "note": "Issue #68 : faim des poissons et attraction vers la nourriture (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T20:33:07.048Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T21:43:24.086Z",
+          "note": "PR #84 : faim et attraction vers la nourriture (ADR 0023), CI verte, captures sans nourriture identiques à l'octet"
         }
       },
       "metriques": {}
