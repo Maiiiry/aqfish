@@ -683,10 +683,10 @@
           "note": "PR #61 : bulles, caustiques et reflet de surface (#50), CI verte ; ~430 lignes de code hors commentaires (660 brutes, au-delà de l'indicatif 600)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T03:08:47.837Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T03:22:34.321Z",
+          "note": "Verdict OK, 0 bug, e2e robustesse ajouté, captures publiées"
         }
       },
       "metriques": {}
