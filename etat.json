@@ -914,10 +914,10 @@
           "note": "Verdict RÉSERVES (19 h gris-mauve terne), 0 bug, verify vert, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T17:40:33.687Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T18:09:33.692Z",
+          "note": "PR #80 fusionnée → v0.4.2 (main verte, release créée) ; dette #81 (crépuscule 19 h)"
         }
       },
       "metriques": {}
