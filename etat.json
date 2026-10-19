@@ -828,6 +828,12 @@
           "debut": "2026-10-19T11:42:20.249Z",
           "fin": "2026-10-19T11:43:22.859Z",
           "note": "Issue #75 : journée de 20 min et figer jour/nuit (S) ; plan : #74, #73, #52, #67"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T11:43:50.571Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
