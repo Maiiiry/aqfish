@@ -908,10 +908,10 @@
           "note": "PR #80 : nuit bleutée (palette pondérée ADR 0021) + indicateur soleil/lune, CI verte, midi identique à l'octet ; 19 h mauve (partiel)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T17:07:56.576Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T17:40:07.048Z",
+          "note": "Verdict RÉSERVES (19 h gris-mauve terne), 0 bug, verify vert, captures publiées"
         }
       },
       "metriques": {}
