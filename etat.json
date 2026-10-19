@@ -950,10 +950,10 @@
           "note": "Verdict OK, 0 bug, verify vert, captures publiées, 2 tests e2e ajoutés"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T19:52:22.530Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T20:31:18.434Z",
+          "note": "PR #82 fusionnée → v0.4.3 (main verte, release créée) ; dette #83 (lisibilité des granulés)"
         }
       },
       "metriques": {}
