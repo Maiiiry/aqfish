@@ -1008,6 +1008,12 @@
           "debut": "2026-10-19T22:59:00.123Z",
           "fin": "2026-10-19T22:59:29.214Z",
           "note": "Issue #85 : dette, coût de la visibilité des granulés + légende du tracé (+ reliquat #55) (S)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T22:59:57.349Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
