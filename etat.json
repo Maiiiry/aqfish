@@ -986,10 +986,10 @@
           "note": "Verdict OK, 0 bug, verify vert, CI verte, captures publiées, 2 tests e2e ajoutés"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T22:27:25.254Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T22:58:30.916Z",
+          "note": "PR #84 fusionnée → v0.4.4 (main verte, release créée) ; dette #85 (coût de la visibilité, légende du tracé)"
         }
       },
       "metriques": {}
