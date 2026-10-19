@@ -1,5 +1,5 @@
-# Captures c016
-- Branche : cycle/c016-plantes-ondulent, PR #60
-- Commit : b45610e10e0ccea78fa1ce8e6d0a00e766d27807
+# Captures c017
+- Branche : cycle/c017-bulles-caustiques, PR #61
+- Commit : e6d4630929e2872fe094b81fa727e148e0b4dda7
 - Graine : 42, temps : défaut du harnais
 - Produites par QA (npm run captures)
