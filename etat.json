@@ -639,6 +639,12 @@
           "debut": "2026-10-19T01:08:46.296Z",
           "fin": "2026-10-19T01:09:30.793Z",
           "note": "Issue #49 : Plantes qui ondulent (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T01:10:02.015Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
