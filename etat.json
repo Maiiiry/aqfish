@@ -906,6 +906,12 @@
           "debut": "2026-10-19T15:58:40.703Z",
           "fin": "2026-10-19T17:07:26.634Z",
           "note": "PR #80 : nuit bleutée (palette pondérée ADR 0021) + indicateur soleil/lune, CI verte, midi identique à l'octet ; 19 h mauve (partiel)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T17:07:56.576Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
