@@ -938,10 +938,10 @@
           "note": "Issue #67 : nourrissage au clic, granulés (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T18:10:52.108Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T19:19:17.354Z",
+          "note": "PR #82 : nourrissage au clic (granulés, ADR 0022), CI verte, captures sans nourriture identiques à l'octet"
         }
       },
       "metriques": {}
