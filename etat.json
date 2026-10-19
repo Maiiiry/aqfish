@@ -936,6 +936,12 @@
           "debut": "2026-10-19T18:09:57.578Z",
           "fin": "2026-10-19T18:10:26.138Z",
           "note": "Issue #67 : nourrissage au clic, granulés (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T18:10:52.108Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
