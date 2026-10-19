@@ -944,10 +944,10 @@
           "note": "PR #82 : nourrissage au clic (granulés, ADR 0022), CI verte, captures sans nourriture identiques à l'octet"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T19:19:44.575Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T19:51:56.497Z",
+          "note": "Verdict OK, 0 bug, verify vert, captures publiées, 2 tests e2e ajoutés"
         }
       },
       "metriques": {}
