@@ -1004,10 +1004,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T22:59:00.123Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T22:59:29.214Z",
+          "note": "Issue #85 : dette, coût de la visibilité des granulés + légende du tracé (+ reliquat #55) (S)"
         }
       },
       "metriques": {}
