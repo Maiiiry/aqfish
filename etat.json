@@ -603,6 +603,12 @@
           "debut": "2026-10-19T00:07:09.402Z",
           "fin": "2026-10-19T00:07:46.723Z",
           "note": "Issue #48 : Décor en données, rochers et collision fine (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T00:08:14.699Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
