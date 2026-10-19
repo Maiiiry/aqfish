@@ -942,6 +942,12 @@
           "debut": "2026-10-19T18:10:52.108Z",
           "fin": "2026-10-19T19:19:17.354Z",
           "note": "PR #82 : nourrissage au clic (granulés, ADR 0022), CI verte, captures sans nourriture identiques à l'octet"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T19:19:44.575Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
