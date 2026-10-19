@@ -689,10 +689,10 @@
           "note": "Verdict OK, 0 bug, e2e robustesse ajouté, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T03:23:04.629Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T03:42:46.861Z",
+          "note": "PR #61 fusionnée → v0.3.3 (#50 close), main verte, release créée ; dette #62"
         }
       },
       "metriques": {}
