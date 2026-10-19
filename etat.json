@@ -615,6 +615,12 @@
           "debut": "2026-10-19T00:45:05.636Z",
           "fin": "2026-10-19T00:55:21.816Z",
           "note": "Verdict OK, 0 bug, 2 remarques mineures (contour bruité en vue de dessus), e2e decor.spec.ts ajouté, captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T00:55:49.283Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
