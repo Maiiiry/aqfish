@@ -870,6 +870,12 @@
           "debut": "2026-10-19T13:50:25.930Z",
           "fin": "2026-10-19T14:42:25.319Z",
           "note": "PR #78 : aide-mémoire des commandes (source unique core/commands, test d'exhaustivité, ?, état mémorisé), CI verte, captures identiques"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T14:42:55.354Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
