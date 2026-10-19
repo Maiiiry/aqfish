@@ -581,10 +581,10 @@
           "note": "Verdict OK, 0 bug, 1 remarque de lisibilité (corydoras superposés), e2e profondeur ajouté, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-18T23:50:10.805Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T00:06:41.259Z",
+          "note": "PR #54 fusionnée → v0.2.6, PR #56 fusionnée → v0.3.0 (#31 close), main verte, dette #57"
         }
       },
       "metriques": {}
