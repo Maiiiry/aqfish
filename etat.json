@@ -785,10 +785,10 @@
           "note": "Issue #71 : Rétro sprint 3 ; Dev : #66 (bug) + #57 ; sprint 4 = #52 #67 #68 #69 #70 (S+S)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T07:46:30.158Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T08:49:05.763Z",
+          "note": "PR #72 : mutation à blanc OK (#66) + banc corydoras lâche (#57), CI verte ; score de mutation laissé à QA (12 min à blanc), side partiel (occlusion rochers)"
         }
       },
       "metriques": {
