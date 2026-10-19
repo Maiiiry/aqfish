@@ -605,10 +605,10 @@
           "note": "Issue #48 : Décor en données, rochers et collision fine (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T00:08:14.699Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T00:44:41.234Z",
+          "note": "PR #58 : décor en données, rochers voxel, collision union de sphères, contour (#48), CI verte"
         }
       },
       "metriques": {}
