@@ -795,6 +795,12 @@
           "debut": "2026-10-19T08:49:32.555Z",
           "fin": "2026-10-19T11:17:44.905Z",
           "note": "Verdict RÉSERVES (side : 2-3 corydoras visibles), 0 bug, captures publiées ; score de mutation non mesuré (2332 mutants > 1h50)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T11:18:10.681Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {
