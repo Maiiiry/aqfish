@@ -717,6 +717,12 @@
           "debut": "2026-10-19T03:44:21.307Z",
           "fin": "2026-10-19T04:44:51.953Z",
           "note": "PR #63 : cycle jour/nuit et éclairage (#51), CI verte ; captures par défaut identiques à l'octet ; 1 échec CI corrigé (tests d'hôte trop longs)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T04:45:22.590Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
