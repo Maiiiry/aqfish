@@ -1,4 +1,6 @@
-# Captures c022
-- Branche : cycle/c022-aide-memoire-commandes (PR #78), commit c7492e3
-- Graine : défaut du harnais ; temps : défaut du harnais
-- Résultat : 10 PNG identiques à captures/latest (cmp, octet près) ; interface/ (aide-mémoire) fournie par Dev
+# Captures c023 (QA)
+- Branche : cycle/c023-nuit-bleutee, PR #80, commit 82c70a3
+- Graine et temps : défaut du harnais
+- Midi (top, bottom, front, side, three-quarter, three-quarter-sans-filtre, trajectoires-top) : identiques à captures/latest (cycle 22), cmp octet près
+- Nuit et crépuscule (three-quarter-minuit, -crepuscule 18 h, -crepuscule-19h, -sans-filtre-minuit) : identiques aux captures de Dev (c023-dev)
+- Indicateur soleil/lune hors capture : voir interface/
