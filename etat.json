@@ -984,6 +984,12 @@
           "debut": "2026-10-19T21:44:03.524Z",
           "fin": "2026-10-19T22:27:00.213Z",
           "note": "Verdict OK, 0 bug, verify vert, CI verte, captures publiées, 2 tests e2e ajoutés"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T22:27:25.254Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
