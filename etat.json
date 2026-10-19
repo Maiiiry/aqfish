@@ -719,10 +719,10 @@
           "note": "PR #63 : cycle jour/nuit et éclairage (#51), CI verte ; captures par défaut identiques à l'octet ; 1 échec CI corrigé (tests d'hôte trop longs)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T04:45:22.590Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T05:15:11.975Z",
+          "note": "Verdict OK, 0 bug, e2e robustesse ajouté, captures publiées"
         }
       },
       "metriques": {}
