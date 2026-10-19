@@ -1010,10 +1010,10 @@
           "note": "Issue #85 : dette, coût de la visibilité des granulés + légende du tracé (+ reliquat #55) (S)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T22:59:57.349Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T23:52:58.635Z",
+          "note": "PR #86 : visibilité des granulés par ordre de distance (4× moins de tests, captures de scène identiques à l'octet) + légende/obstacles du tracé, CI verte"
         }
       },
       "metriques": {}
