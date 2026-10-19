@@ -896,10 +896,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T15:57:17.924Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T15:58:04.706Z",
+          "note": "Issue #73 : nuit bleutée et lisible, indicateur soleil/lune (M)"
         }
       },
       "metriques": {}
