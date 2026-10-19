@@ -1,6 +1,2 @@
-# Captures du cycle 20
-
-- Branche : cycle/c020-mutation-corydoras (PR #72)
-- Commit : 2a51a3108493ac242ae81621ffe06151a7b8dd55
-- Graine : 42, temps : 30 s (mode capture)
-- Produites par QA avec `npm run captures`
+Cycle 21 — PR #77, branche cycle/c021-journee-longue-figer, commit 33a488f, graine par défaut, mode capture.
+verify OK : 914 tests unitaires, 97 e2e. Les 10 PNG sont identiques octet pour octet à la série précédente.
