@@ -635,10 +635,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T01:08:46.296Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T01:09:30.793Z",
+          "note": "Issue #49 : Plantes qui ondulent (M)"
         }
       },
       "metriques": {}
