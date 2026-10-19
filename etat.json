@@ -993,6 +993,24 @@
         }
       },
       "metriques": {}
+    },
+    "26": {
+      "numero": 26,
+      "date": "2026-10-20",
+      "debut": "2026-10-19T22:59:00.123Z",
+      "type": "dette",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T22:59:00.123Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
