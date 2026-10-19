@@ -860,10 +860,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T13:48:59.279Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T13:49:56.375Z",
+          "note": "Issue #74 : aide-mémoire des commandes (M) ; ensuite #73, #52, #67"
         }
       },
       "metriques": {}
