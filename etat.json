@@ -713,10 +713,10 @@
           "note": "Issue #51 : Cycle jour/nuit et éclairage (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T03:44:21.307Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T04:44:51.953Z",
+          "note": "PR #63 : cycle jour/nuit et éclairage (#51), CI verte ; captures par défaut identiques à l'octet ; 1 échec CI corrigé (tests d'hôte trop longs)"
         }
       },
       "metriques": {}
