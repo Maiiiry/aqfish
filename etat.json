@@ -1014,6 +1014,12 @@
           "debut": "2026-10-19T22:59:57.349Z",
           "fin": "2026-10-19T23:52:58.635Z",
           "note": "PR #86 : visibilité des granulés par ordre de distance (4× moins de tests, captures de scène identiques à l'octet) + légende/obstacles du tracé, CI verte"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T23:53:28.705Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
