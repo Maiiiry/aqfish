@@ -929,7 +929,7 @@
       "type": "fonctionnalite",
       "issue": 67,
       "pr": 82,
-      "version": null,
+      "version": "v0.4.3",
       "phases": {
         "planif": {
           "statut": "termine",
