@@ -813,6 +813,24 @@
         "mutationAblanc": "ok",
         "mutationScore": null
       }
+    },
+    "21": {
+      "numero": 21,
+      "date": "2026-10-19",
+      "debut": "2026-10-19T11:42:20.249Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T11:42:20.249Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
