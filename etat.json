@@ -980,10 +980,10 @@
           "note": "PR #84 : faim et attraction vers la nourriture (ADR 0023), CI verte, captures sans nourriture identiques à l'octet"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T21:44:03.524Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T22:27:00.213Z",
+          "note": "Verdict OK, 0 bug, verify vert, CI verte, captures publiées, 2 tests e2e ajoutés"
         }
       },
       "metriques": {}
