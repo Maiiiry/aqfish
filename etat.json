@@ -968,10 +968,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T20:31:57.843Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T20:32:33.720Z",
+          "note": "Issue #68 : faim des poissons et attraction vers la nourriture (M)"
         }
       },
       "metriques": {}
