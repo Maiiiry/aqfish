@@ -595,7 +595,7 @@
       "debut": "2026-10-19T00:07:09.402Z",
       "type": "fonctionnalite",
       "issue": 48,
-      "pr": null,
+      "pr": 58,
       "version": null,
       "phases": {
         "planif": {
