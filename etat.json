@@ -749,10 +749,10 @@
           "note": "Issue #64 : dette jour/nuit, poissons/sable de nuit, lightAt (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T05:38:24.235Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T06:42:35.092Z",
+          "note": "PR #65 : dette jour/nuit (poissons/bulles assombris la nuit, lightAtInto ; sable nocturne écarté ADR 0019), CI verte, captures midi identiques"
         }
       },
       "metriques": {}
