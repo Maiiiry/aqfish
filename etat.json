@@ -893,7 +893,7 @@
       "type": "fonctionnalite",
       "issue": 73,
       "pr": 80,
-      "version": null,
+      "version": "v0.4.2",
       "phases": {
         "planif": {
           "statut": "termine",
