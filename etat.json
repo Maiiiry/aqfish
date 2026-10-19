@@ -560,7 +560,7 @@
       "type": "fonctionnalite",
       "issue": 31,
       "pr": 56,
-      "version": null,
+      "version": "v0.3.0",
       "phases": {
         "planif": {
           "statut": "termine",
