@@ -900,6 +900,12 @@
           "debut": "2026-10-19T15:57:17.924Z",
           "fin": "2026-10-19T15:58:04.706Z",
           "note": "Issue #73 : nuit bleutée et lisible, indicateur soleil/lune (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T15:58:40.703Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
