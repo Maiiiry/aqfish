@@ -632,7 +632,7 @@
       "type": "fonctionnalite",
       "issue": 49,
       "pr": 60,
-      "version": null,
+      "version": "v0.3.2",
       "phases": {
         "planif": {
           "statut": "termine",
