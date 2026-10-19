@@ -864,6 +864,12 @@
           "debut": "2026-10-19T13:48:59.279Z",
           "fin": "2026-10-19T13:49:56.375Z",
           "note": "Issue #74 : aide-mémoire des commandes (M) ; ensuite #73, #52, #67"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T13:50:25.930Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
