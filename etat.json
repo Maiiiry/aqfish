@@ -797,10 +797,10 @@
           "note": "Verdict RÉSERVES (side : 2-3 corydoras visibles), 0 bug, captures publiées ; score de mutation non mesuré (2332 mutants > 1h50)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T11:18:10.681Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T11:41:51.556Z",
+          "note": "PR #72 fusionnée → v0.3.6 (main verte, release créée) ; dette #76 (corydoras side)"
         }
       },
       "metriques": {
