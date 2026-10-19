@@ -707,10 +707,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T03:43:18.174Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T03:43:53.581Z",
+          "note": "Issue #51 : Cycle jour/nuit et éclairage (M)"
         }
       },
       "metriques": {}
