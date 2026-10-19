@@ -1,5 +1,2 @@
-# Captures c017
-- Branche : cycle/c017-bulles-caustiques, PR #61
-- Commit : e6d4630929e2872fe094b81fa727e148e0b4dda7
-- Graine : 42, temps : défaut du harnais
-- Produites par QA (npm run captures)
+Cycle 18 — QA. Branche cycle/c018-jour-nuit, PR #63, commit 6afa1db, graine 42, time=30.
+Séries : 5 angles + sans-filtre (identiques octet pour octet à c017) + crépuscule, minuit, sans-filtre-minuit.
