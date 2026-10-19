@@ -830,10 +830,10 @@
           "note": "Issue #75 : journée de 20 min et figer jour/nuit (S) ; plan : #74, #73, #52, #67"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T11:43:50.571Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T12:56:48.120Z",
+          "note": "PR #77 : journée de 20 min + touches J/N (midi/minuit), CI verte, captures identiques ; + délai explicite test guppys (flake 5 s sous couverture)"
         }
       },
       "metriques": {}
