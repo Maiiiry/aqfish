@@ -783,6 +783,12 @@
           "debut": "2026-10-19T07:43:32.890Z",
           "fin": "2026-10-19T07:46:03.737Z",
           "note": "Issue #71 : Rétro sprint 3 ; Dev : #66 (bug) + #57 ; sprint 4 = #52 #67 #68 #69 #70 (S+S)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T07:46:30.158Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
