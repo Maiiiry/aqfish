@@ -711,6 +711,12 @@
           "debut": "2026-10-19T03:43:18.174Z",
           "fin": "2026-10-19T03:43:53.581Z",
           "note": "Issue #51 : Cycle jour/nuit et éclairage (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T03:44:21.307Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
