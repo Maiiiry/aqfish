@@ -791,7 +791,13 @@
           "note": null
         }
       },
-      "metriques": {}
+      "metriques": {
+        "tests": 904,
+        "fichiersTests": 39,
+        "e2e": 95,
+        "mutationAblanc": "ok",
+        "mutationScore": null
+      }
     }
   },
   "jours": {
