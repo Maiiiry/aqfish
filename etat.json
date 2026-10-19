@@ -779,10 +779,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T07:43:32.890Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T07:46:03.737Z",
+          "note": "Issue #71 : Rétro sprint 3 ; Dev : #66 (bug) + #57 ; sprint 4 = #52 #67 #68 #69 #70 (S+S)"
         }
       },
       "metriques": {}
