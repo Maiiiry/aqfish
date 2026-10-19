@@ -902,10 +902,10 @@
           "note": "Issue #73 : nuit bleutée et lisible, indicateur soleil/lune (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T15:58:40.703Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T17:07:26.634Z",
+          "note": "PR #80 : nuit bleutée (palette pondérée ADR 0021) + indicateur soleil/lune, CI verte, midi identique à l'octet ; 19 h mauve (partiel)"
         }
       },
       "metriques": {}
