@@ -972,6 +972,12 @@
           "debut": "2026-10-19T20:31:57.843Z",
           "fin": "2026-10-19T20:32:33.720Z",
           "note": "Issue #68 : faim des poissons et attraction vers la nourriture (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T20:33:07.048Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
