@@ -789,6 +789,12 @@
           "debut": "2026-10-19T07:46:30.158Z",
           "fin": "2026-10-19T08:49:05.763Z",
           "note": "PR #72 : mutation à blanc OK (#66) + banc corydoras lâche (#57), CI verte ; score de mutation laissé à QA (12 min à blanc), side partiel (occlusion rochers)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T08:49:32.555Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {
