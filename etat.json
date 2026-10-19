@@ -653,10 +653,10 @@
           "note": "Verdict OK, 0 bug, 2 remarques mineures, e2e plantes (petite fenêtre, graines extrêmes) ajouté, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T02:14:30.362Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T02:33:13.531Z",
+          "note": "PR #60 fusionnée → v0.3.2 (#49 close), main verte, release créée"
         }
       },
       "metriques": {}
