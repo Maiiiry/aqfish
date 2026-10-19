@@ -755,10 +755,10 @@
           "note": "PR #65 : dette jour/nuit (poissons/bulles assombris la nuit, lightAtInto ; sable nocturne écarté ADR 0019), CI verte, captures midi identiques"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T06:43:05.292Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T07:20:55.902Z",
+          "note": "Verdict OK, 0 bug PR, captures publiées ; mutation en échec à blanc → #66"
         }
       },
       "metriques": {}
