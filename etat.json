@@ -611,10 +611,10 @@
           "note": "PR #58 : décor en données, rochers voxel, collision union de sphères, contour (#48), CI verte"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T00:45:05.636Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T00:55:21.816Z",
+          "note": "Verdict OK, 0 bug, 2 remarques mineures (contour bruité en vue de dessus), e2e decor.spec.ts ajouté, captures publiées"
         }
       },
       "metriques": {}
