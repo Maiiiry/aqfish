@@ -834,6 +834,12 @@
           "debut": "2026-10-19T11:43:50.571Z",
           "fin": "2026-10-19T12:56:48.120Z",
           "note": "PR #77 : journée de 20 min + touches J/N (midi/minuit), CI verte, captures identiques ; + délai explicite test guppys (flake 5 s sous couverture)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T12:57:20.094Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
