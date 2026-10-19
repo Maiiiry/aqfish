@@ -912,6 +912,12 @@
           "debut": "2026-10-19T17:07:56.576Z",
           "fin": "2026-10-19T17:40:07.048Z",
           "note": "Verdict RÉSERVES (19 h gris-mauve terne), 0 bug, verify vert, captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T17:40:33.687Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
