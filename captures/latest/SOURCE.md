@@ -1,2 +1,2 @@
-Cycle 18 — QA. Branche cycle/c018-jour-nuit, PR #63, commit 6afa1db, graine 42, time=30.
-Séries : 5 angles + sans-filtre (identiques octet pour octet à c017) + crépuscule, minuit, sans-filtre-minuit.
+Cycle 19 — QA. Branche cycle/c019-dette-jour-nuit, PR #65, commit 29ac586, graine 42, time=30.
+Séries : 5 angles + sans-filtre + trajectoires (identiques octet pour octet à c018) ; crépuscule, minuit, sans-filtre-minuit changent (poissons/bulles assombris la nuit, ADR 0019).
