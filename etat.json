@@ -842,10 +842,10 @@
           "note": "Verdict OK, 0 bug, captures publiées (10 identiques à latest)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T13:28:06.998Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T13:48:30.072Z",
+          "note": "PR #77 fusionnée → v0.4.0 (main verte, release créée) ; rappel J/N/H posé sur #74"
         }
       },
       "metriques": {}
