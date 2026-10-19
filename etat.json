@@ -617,10 +617,10 @@
           "note": "Verdict OK, 0 bug, 2 remarques mineures (contour bruité en vue de dessus), e2e decor.spec.ts ajouté, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T00:55:49.283Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T01:08:09.508Z",
+          "note": "PR #58 fusionnée → v0.3.1 (#48 close), main verte, release créée, dette #59"
         }
       },
       "metriques": {}
