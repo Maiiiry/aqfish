@@ -671,10 +671,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T02:33:44.686Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T02:34:14.049Z",
+          "note": "Issue #50 : Bulles, reflet de surface et caustiques (M)"
         }
       },
       "metriques": {}
