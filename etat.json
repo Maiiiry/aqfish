@@ -872,10 +872,10 @@
           "note": "PR #78 : aide-mémoire des commandes (source unique core/commands, test d'exhaustivité, ?, état mémorisé), CI verte, captures identiques"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T14:42:55.354Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-19T15:08:53.173Z",
+          "note": "Verdict OK, 0 bug, captures publiées (10 identiques à latest)"
         }
       },
       "metriques": {}
