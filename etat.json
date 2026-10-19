@@ -645,6 +645,12 @@
           "debut": "2026-10-19T01:10:02.015Z",
           "fin": "2026-10-19T02:03:36.974Z",
           "note": "PR #60 : plantes qui ondulent (#49), CI verte ; perf : rejets exacts d'obstacles ; délai explicite test 10k pas"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-19T02:04:01.830Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
