@@ -1164,6 +1164,12 @@
           "debut": "2026-10-20T10:12:46.729Z",
           "fin": "2026-10-20T10:48:58.594Z",
           "note": "Verdict OK, 0 bug, verify 128/128 e2e, captures publiées (+bassin)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T10:49:26.701Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
