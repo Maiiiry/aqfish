@@ -1,5 +1,7 @@
-# Captures c033
-- Branche : cycle/c033-dette-sauvegarde — PR #102 — commit 293c9f0 (code applicatif ; 2fc8196 n'ajoute qu'un test e2e)
-- Graine : celle du script de captures (monde neuf, stockage non lu)
-- Généré par QA le 2026-10-20 (npm run captures, 19 passées en 32,3 s)
-- 18/19 identiques à latest (c032) ; seule front-panneau.png change (boutons de sauvegarde entiers)
+# Captures du cycle 34
+
+- Branche : cycle/c034-gabarit-panneaux
+- PR : #111
+- Commit : 9d75998
+- Graine : celle de `e2e/captures.spec.ts` (fixe) ; temps de capture fixes par angle
+- Comparaison avec c033 : 18 sur 19 identiques à l'octet ; seule `front-panneau.png` change (panneau « Commandes » resserré)
