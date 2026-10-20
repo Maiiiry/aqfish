@@ -1130,10 +1130,10 @@
           "note": "Verdict OK, 1 bug hors PR (#94, test e2e fragile), verify 124/125 e2e, captures publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T08:03:07.527Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T08:41:17.606Z",
+          "note": "PR #93 fusionnée → v0.5.1 (main verte, release créée) ; dette #95"
         }
       },
       "metriques": {}
