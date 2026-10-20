@@ -1302,6 +1302,12 @@
           "debut": "2026-10-20T21:19:09.443Z",
           "fin": "2026-10-20T22:49:58.305Z",
           "note": "PR #111 : panneau Commandes entier (#79), e2e de cadrage des panneaux, isTypingContext dans core/keyboard ; CI verte au 2e passage (police DejaVu Sans en CI, piège consigné) ; verify 149 e2e ; captures 18/19 identiques"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T22:50:33.932Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
