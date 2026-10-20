@@ -1232,10 +1232,10 @@
           "note": "PR #100 : sauvegarde navigateur, export/import JSON versionné (ADR 0028), CI verte, verify 137 e2e, captures identiques sauf front-panneau ; taille ~1 110 lignes hors tests, justifiée dans la PR"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T15:57:15.952Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T16:41:22.497Z",
+          "note": "Verdict OK, 0 bug, verify 137 e2e, +2 e2e (stockage corrompu, fichiers hostiles), captures publiées (18/19 identiques)"
         }
       },
       "metriques": {}
