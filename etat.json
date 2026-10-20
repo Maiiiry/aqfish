@@ -1056,6 +1056,12 @@
           "debut": "2026-10-20T02:08:38.109Z",
           "fin": "2026-10-20T02:38:46.019Z",
           "note": "Verdict OK, 0 bug, verify vert (1072 unit, 116 e2e), captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T02:39:08.911Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
