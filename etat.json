@@ -1166,10 +1166,10 @@
           "note": "Verdict OK, 0 bug, verify 128/128 e2e, captures publiées (+bassin)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T10:49:26.701Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T11:31:17.910Z",
+          "note": "PR #96 fusionnée → v0.5.2 (main verte, release créée) ; dette #97"
         }
       },
       "metriques": {}
