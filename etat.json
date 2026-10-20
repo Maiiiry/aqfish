@@ -1304,10 +1304,10 @@
           "note": "PR #111 : panneau Commandes entier (#79), e2e de cadrage des panneaux, isTypingContext dans core/keyboard ; CI verte au 2e passage (police DejaVu Sans en CI, piège consigné) ; verify 149 e2e ; captures 18/19 identiques"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T22:50:33.932Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T23:26:43.819Z",
+          "note": "Verdict OK, 1 bug mineur (#112, 320 px), verify 149 e2e, captures publiées (18/19 identiques)"
         }
       },
       "metriques": {}
