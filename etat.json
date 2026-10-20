@@ -1052,10 +1052,10 @@
           "note": "PR #90 : granulés lisibles (cœur jaune + liseré koiNoir + profondeur avancée), dette #83, CI verte ; captures sans nourriture identiques à l'octet"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T02:08:38.109Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T02:38:46.019Z",
+          "note": "Verdict OK, 0 bug, verify vert (1072 unit, 116 e2e), captures publiées"
         }
       },
       "metriques": {}
