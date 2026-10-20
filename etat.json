@@ -1029,6 +1029,24 @@
         }
       },
       "metriques": {}
+    },
+    "27": {
+      "numero": 27,
+      "date": "2026-10-20",
+      "debut": "2026-10-20T01:23:35.044Z",
+      "type": "retro",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T01:23:35.044Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
