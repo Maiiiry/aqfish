@@ -1196,10 +1196,10 @@
           "note": "PR #98 : koïs, première espèce du bassin (3 robes tirées de la graine), CI verte, captures du bac identiques à l'octet"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T12:50:47.030Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T13:31:36.234Z",
+          "note": "Verdict OK, 0 bug, verify 132 e2e, captures publiées (+koïs)"
         }
       },
       "metriques": {}
