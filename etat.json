@@ -1128,6 +1128,12 @@
           "debut": "2026-10-20T07:22:48.338Z",
           "fin": "2026-10-20T08:02:41.254Z",
           "note": "Verdict OK, 1 bug hors PR (#94, test e2e fragile), verify 124/125 e2e, captures publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T08:03:07.527Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
