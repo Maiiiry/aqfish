@@ -1,6 +1,5 @@
-# Source des captures c028
+# Captures c029
 
-- Branche : cycle/c028-panneau-controle (PR #91)
-- Commit : 46ac373be3aa598f23f86fac3a242d3e328ecead
-- Graine et temps : ceux du harnais (captures.spec.ts)
-- 14 images identiques à la série précédente (cmp), + front-panneau.png (panneau ouvert)
+- Branche : cycle/c029-population (PR #93), commit 61a9ef7
+- Graine : 42 (contrat de capture par défaut), temps : voir captures.spec.ts
+- Générées par QA avec `npm run captures` ; 14 des 15 reproductibles identiques à l'octet à c028, nouvelle : three-quarter-population.png ; front-panneau.png change (section Population).
