@@ -1001,7 +1001,7 @@
       "type": "dette",
       "issue": 85,
       "pr": 86,
-      "version": null,
+      "version": "v0.4.5",
       "phases": {
         "planif": {
           "statut": "termine",
