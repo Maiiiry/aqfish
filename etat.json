@@ -1112,10 +1112,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T05:53:24.331Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T05:53:59.065Z",
+          "note": "Issue #69 : population réglable par espèce (S)"
         }
       },
       "metriques": {}
