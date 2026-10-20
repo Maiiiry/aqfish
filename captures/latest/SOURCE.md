@@ -1,3 +1,5 @@
-Cycle 31 — branche cycle/c031 (PR #98), commit 4b19f33, graine 42, temps 30 s.
-Séries du bac identiques à l'octet à celle du cycle 30, sauf front-panneau.png (panneau modifié par la PR : attendu).
-bassin-* : koïs visibles (blancs, rouges, orange), lisibles de dessus.
+# Captures c032
+- Branche : cycle/c032-sauvegarde — PR #100 — commit 0cc10e9 (code applicatif ; 7b37a50 n'ajoute que des tests e2e)
+- Graine : celle du script de captures (monde neuf, stockage non lu)
+- Généré par QA le 2026-10-20 (npm run captures, 19 passées en 46,7 s)
+- 18/19 identiques à latest (c031) ; seule front-panneau.png change (section Sauvegarde)
