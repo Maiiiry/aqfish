@@ -1298,10 +1298,10 @@
           "note": "Issue #108 : Rétro sprint 5 + dette #79 et e2e de cadrage des panneaux (S/M) ; backlog #103-#107 ; PR doc roadmap #109"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T21:19:09.443Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T22:49:58.305Z",
+          "note": "PR #111 : panneau Commandes entier (#79), e2e de cadrage des panneaux, isTypingContext dans core/keyboard ; CI verte au 2e passage (police DejaVu Sans en CI, piège consigné) ; verify 149 e2e ; captures 18/19 identiques"
         }
       },
       "metriques": {}
