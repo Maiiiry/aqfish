@@ -1224,6 +1224,12 @@
           "debut": "2026-10-20T14:22:12.850Z",
           "fin": "2026-10-20T14:22:56.765Z",
           "note": "Issue #70 : Sauvegarde navigateur, export et import JSON (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T14:23:28.868Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
