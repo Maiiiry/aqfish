@@ -1154,10 +1154,10 @@
           "note": "Issue #87 : Bassin, second environnement sélectionnable (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T08:42:43.299Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T10:12:16.219Z",
+          "note": "PR #96 : bassin, second environnement sélectionnable, CI verte, captures du bac identiques à l'octet"
         }
       },
       "metriques": {}
