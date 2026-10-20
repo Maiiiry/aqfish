@@ -1272,6 +1272,12 @@
           "debut": "2026-10-20T19:43:30.585Z",
           "fin": "2026-10-20T20:38:01.527Z",
           "note": "Verdict OK, 0 bug, verify 141 e2e, +1 e2e (heure= et sauvegarde), captures publiées (18/19 identiques), mutation population.ts 93,55 %"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T20:38:38.271Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
