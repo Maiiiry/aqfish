@@ -1020,6 +1020,12 @@
           "debut": "2026-10-19T23:53:28.705Z",
           "fin": "2026-10-20T00:49:11.074Z",
           "note": "Verdict OK, 0 bug, verify vert (1068 unit, 116 e2e), captures publiées, mutation feeding.ts non mesurée (timeout)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T00:49:33.760Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
