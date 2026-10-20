@@ -1,8 +1,6 @@
-# Captures c027
+# Source des captures c028
 
-- Branche : cycle/c027-granules-lisibles
-- PR : #90 (issue #89, dette #83)
-- Commit : d7193f5
-- Graine : celle du script de captures (par défaut), temps : celui du script
-- Génération : `CAPTURE_DIR=… npm run captures`, 14 captures
-- Écart avec la série précédente (latest) : seules three-quarter-nourriture et three-quarter-nourriture-minuit diffèrent ; les 12 autres sont identiques à l'octet.
+- Branche : cycle/c028-panneau-controle (PR #91)
+- Commit : 46ac373be3aa598f23f86fac3a242d3e328ecead
+- Graine et temps : ceux du harnais (captures.spec.ts)
+- 14 images identiques à la série précédente (cmp), + front-panneau.png (panneau ouvert)
