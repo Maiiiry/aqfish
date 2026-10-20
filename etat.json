@@ -1256,10 +1256,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T17:33:15.893Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T17:33:59.039Z",
+          "note": "Issue #101 : dette sauvegarde, type unique, boutons visibles + test fragile #94 (S/M)"
         }
       },
       "metriques": {}
