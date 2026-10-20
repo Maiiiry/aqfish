@@ -1220,10 +1220,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T14:22:12.850Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T14:22:56.765Z",
+          "note": "Issue #70 : Sauvegarde navigateur, export et import JSON (M)"
         }
       },
       "metriques": {}
