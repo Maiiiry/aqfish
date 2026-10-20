@@ -1,5 +1,3 @@
-# Captures c029
-
-- Branche : cycle/c029-population (PR #93), commit 61a9ef7
-- Graine : 42 (contrat de capture par défaut), temps : voir captures.spec.ts
-- Générées par QA avec `npm run captures` ; 14 des 15 reproductibles identiques à l'octet à c028, nouvelle : three-quarter-population.png ; front-panneau.png change (section Population).
+Cycle 30 — branche cycle/c030-bassin, PR #96, commit 71c79d5, graine 42, temps 30 s.
+Séries du bac identiques à l'octet à celle du cycle 29, sauf front-panneau.png (nouveau sélecteur, attendu).
+Nouvelles : bassin-top, bassin-three-quarter, bassin-three-quarter-minuit.
