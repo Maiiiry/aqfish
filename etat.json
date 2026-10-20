@@ -1046,10 +1046,10 @@
           "note": "Issue #89 : rétro sprint 4 ; Dev traite la dette #83 (S) ; plan : #52, #69, #70, #87, #88"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T01:25:17.011Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T02:08:13.196Z",
+          "note": "PR #90 : granulés lisibles (cœur jaune + liseré koiNoir + profondeur avancée), dette #83, CI verte ; captures sans nourriture identiques à l'octet"
         }
       },
       "metriques": {}
