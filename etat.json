@@ -1076,10 +1076,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T03:17:56.925Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T03:18:40.073Z",
+          "note": "Issue #52 : panneau de contrôle vitesse/heure/décor (M)"
         }
       },
       "metriques": {}
