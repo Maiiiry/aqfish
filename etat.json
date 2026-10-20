@@ -1281,6 +1281,24 @@
         }
       },
       "metriques": {}
+    },
+    "34": {
+      "numero": 34,
+      "date": "2026-10-20",
+      "debut": "2026-10-20T21:16:03.996Z",
+      "type": "retro",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T21:16:03.996Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
