@@ -1308,6 +1308,12 @@
           "debut": "2026-10-20T22:50:33.932Z",
           "fin": "2026-10-20T23:26:43.819Z",
           "note": "Verdict OK, 1 bug mineur (#112, 320 px), verify 149 e2e, captures publiées (18/19 identiques)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T23:27:06.876Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
