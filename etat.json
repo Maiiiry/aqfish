@@ -1080,6 +1080,12 @@
           "debut": "2026-10-20T03:17:56.925Z",
           "fin": "2026-10-20T03:18:40.073Z",
           "note": "Issue #52 : panneau de contrôle vitesse/heure/décor (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T03:19:04.899Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
