@@ -1200,6 +1200,12 @@
           "debut": "2026-10-20T12:50:47.030Z",
           "fin": "2026-10-20T13:31:36.234Z",
           "note": "Verdict OK, 0 bug, verify 132 e2e, captures publiées (+koïs)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T13:32:16.542Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
