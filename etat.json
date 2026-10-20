@@ -1236,6 +1236,12 @@
           "debut": "2026-10-20T15:57:15.952Z",
           "fin": "2026-10-20T16:41:22.497Z",
           "note": "Verdict OK, 0 bug, verify 137 e2e, +2 e2e (stockage corrompu, fichiers hostiles), captures publiées (18/19 identiques)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T16:42:00.536Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
