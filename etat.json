@@ -1148,10 +1148,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T08:41:45.629Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T08:42:18.747Z",
+          "note": "Issue #87 : Bassin, second environnement sélectionnable (M)"
         }
       },
       "metriques": {}
