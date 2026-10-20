@@ -1016,10 +1016,10 @@
           "note": "PR #86 : visibilité des granulés par ordre de distance (4× moins de tests, captures de scène identiques à l'octet) + légende/obstacles du tracé, CI verte"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-19T23:53:28.705Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T00:49:11.074Z",
+          "note": "Verdict OK, 0 bug, verify vert (1068 unit, 116 e2e), captures publiées, mutation feeding.ts non mesurée (timeout)"
         }
       },
       "metriques": {}
