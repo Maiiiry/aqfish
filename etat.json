@@ -1040,10 +1040,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T01:23:35.044Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T01:24:52.673Z",
+          "note": "Issue #89 : rétro sprint 4 ; Dev traite la dette #83 (S) ; plan : #52, #69, #70, #87, #88"
         }
       },
       "metriques": {}
