@@ -1082,10 +1082,10 @@
           "note": "Issue #52 : panneau de contrôle vitesse/heure/décor (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T03:19:04.899Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T04:32:03.396Z",
+          "note": "PR #91 : panneau de contrôle (vitesse, heure, décor), CI verte, captures existantes identiques à l'octet"
         }
       },
       "metriques": {}
