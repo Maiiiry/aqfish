@@ -1088,10 +1088,10 @@
           "note": "PR #91 : panneau de contrôle (vitesse, heure, décor), CI verte, captures existantes identiques à l'octet"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T04:32:29.332Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T05:05:20.080Z",
+          "note": "Verdict OK, 0 bug, verify vert (1105 unit, 123 e2e), captures publiées"
         }
       },
       "metriques": {}
