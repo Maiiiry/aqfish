@@ -1238,10 +1238,10 @@
           "note": "Verdict OK, 0 bug, verify 137 e2e, +2 e2e (stockage corrompu, fichiers hostiles), captures publiées (18/19 identiques)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T16:42:00.536Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T17:32:46.663Z",
+          "note": "PR #100 fusionnée → v0.5.4 (main verte, release créée) ; dette #101"
         }
       },
       "metriques": {}
