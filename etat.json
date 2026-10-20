@@ -1188,6 +1188,12 @@
           "debut": "2026-10-20T11:31:48.266Z",
           "fin": "2026-10-20T11:32:18.733Z",
           "note": "Issue #88 : Koïs, première espèce du bassin (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T11:32:46.569Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
