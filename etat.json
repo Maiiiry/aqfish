@@ -1292,10 +1292,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T21:16:03.996Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-20T21:18:44.307Z",
+          "note": "Issue #108 : Rétro sprint 5 + dette #79 et e2e de cadrage des panneaux (S/M) ; backlog #103-#107 ; PR doc roadmap #109"
         }
       },
       "metriques": {}
