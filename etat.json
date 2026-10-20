@@ -1260,6 +1260,12 @@
           "debut": "2026-10-20T17:33:15.893Z",
           "fin": "2026-10-20T17:33:59.039Z",
           "note": "Issue #101 : dette sauvegarde, type unique, boutons visibles + test fragile #94 (S/M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T17:34:27.206Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
