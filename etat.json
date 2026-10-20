@@ -1230,6 +1230,12 @@
           "debut": "2026-10-20T14:23:28.868Z",
           "fin": "2026-10-20T15:56:42.485Z",
           "note": "PR #100 : sauvegarde navigateur, export/import JSON versionné (ADR 0028), CI verte, verify 137 e2e, captures identiques sauf front-panneau ; taille ~1 110 lignes hors tests, justifiée dans la PR"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-20T15:57:15.952Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
