@@ -1,7 +1,7 @@
-# Captures du cycle 34
-
-- Branche : cycle/c034-gabarit-panneaux
-- PR : #111
-- Commit : 9d75998
-- Graine : celle de `e2e/captures.spec.ts` (fixe) ; temps de capture fixes par angle
-- Comparaison avec c033 : 18 sur 19 identiques à l'octet ; seule `front-panneau.png` change (panneau « Commandes » resserré)
+# Captures du cycle 35
+- Branche : cycle/c035-nenuphars
+- PR : #113 (nénuphars flottants du bassin, #103)
+- Commit capturé : 23f34de
+- Graine : 42 (contrat de capture)
+- Temps : voir e2e/captures.spec.ts (temps simulé fixé par capture)
+- Différences avec la série précédente (c034) : bassin-top, bassin-three-quarter, bassin-three-quarter-minuit (nénuphars, attendu) ; front-panneau (non déterministe, connu). 15 autres identiques à l'octet.
