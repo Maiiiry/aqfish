@@ -1458,6 +1458,10 @@
         "bugsOuverts": 1,
         "ciMain": "success",
         "mutation": 93.55
+      },
+      "rapport": {
+        "statut": "termine",
+        "note": "8 cycles, 2 alertes (pause demandee, duree des cycles)"
       }
     }
   }
