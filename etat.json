@@ -1334,10 +1334,10 @@
           "note": "Issue #103 : Nénuphars flottants du bassin (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T00:26:42.875Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T01:51:39.722Z",
+          "note": "PR #113 : nénuphars flottants du bassin (#103), CI verte ; verify 1421 unitaires + 151 e2e ; captures tropicales identiques à l'octet (hors front-panneau, non déterministe sur main aussi)"
         }
       },
       "metriques": {}
