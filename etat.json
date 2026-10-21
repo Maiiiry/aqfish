@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "pause": false,
-  "motifPause": "Réécriture de l'historique demandée par Mathis (retrait de toute mention d'outil d'IA)",
+  "motifPause": null,
   "experience": {
     "premiereNuit": "2026-10-15",
     "issueRapport": 2,
