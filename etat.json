@@ -1454,10 +1454,10 @@
           "note": "Verdict OK, 0 bug, 5 e2e ajoutés (bassin-enterre), captures publiées (tropical identique)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T18:50:19.105Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T19:10:39.991Z",
+          "note": "PR #121 fusionnée → v0.6.3 (release créée, main verte) ; dette #122"
         }
       },
       "metriques": {}
