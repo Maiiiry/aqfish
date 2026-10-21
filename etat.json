@@ -1418,10 +1418,10 @@
           "note": "Verdict OK, 0 bug bloquant, verify 162 e2e, captures publiées (15 sans nourriture identiques)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T16:52:40.049Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T17:12:53.774Z",
+          "note": "PR #119 fusionnée → v0.6.2 (release créée, main verte) ; dette #120"
         }
       },
       "metriques": {}
