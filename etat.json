@@ -1410,6 +1410,12 @@
           "debut": "2026-10-21T14:39:03.922Z",
           "fin": "2026-10-21T16:16:09.035Z",
           "note": "PR #119 : granulés discrets selon le zoom, points ou voxels (#117), CI verte ; verify 1492 unitaires + 162 e2e ; captures sans nourriture identiques à l'octet ; comparaisons dans captures/c037/dev ; verify sur main faussé par une édition en cours (CI main verte)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T16:16:46.647Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
