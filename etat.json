@@ -1512,6 +1512,12 @@
           "debut": "2026-10-21T21:15:16.912Z",
           "fin": "2026-10-21T21:15:58.040Z",
           "note": "Issue #125 : couches d'effets de la vue et pluie en trois-quarts (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T21:16:37.500Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
