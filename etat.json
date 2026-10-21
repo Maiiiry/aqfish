@@ -1514,10 +1514,10 @@
           "note": "Issue #125 : couches d'effets de la vue et pluie en trois-quarts (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T21:16:37.500Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T22:15:01.595Z",
+          "note": "PR #126 : couches d'effets en liste (EffectLayer) + pluie lisible en trois-quarts (#125), CI verte ; verify 1557 unitaires + 172 e2e ; 35 captures identiques après refactor ; captures c040-dev publiées"
         }
       },
       "metriques": {}
