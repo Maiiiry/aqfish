@@ -1364,10 +1364,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T12:36:49.454Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T12:37:21.416Z",
+          "note": "Issue #104 : Lotus et fleurs de nénuphar (S à M)"
         }
       },
       "metriques": {}
