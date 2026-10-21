@@ -1332,6 +1332,12 @@
           "debut": "2026-10-21T00:25:39.500Z",
           "fin": "2026-10-21T00:26:14.891Z",
           "note": "Issue #103 : Nénuphars flottants du bassin (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T00:26:42.875Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
