@@ -1520,10 +1520,10 @@
           "note": "PR #126 : couches d'effets en liste (EffectLayer) + pluie lisible en trois-quarts (#125), CI verte ; verify 1557 unitaires + 172 e2e ; 35 captures identiques après refactor ; captures c040-dev publiées"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T22:15:29.062Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T23:32:01.794Z",
+          "note": "Verdict RÉSERVES (top pluie 81 px ≠ ; pluie 3/4 très discrète), 0 bug, captures c040 publiées, mutation 86,4 % sur 3 fichiers, issue dette"
         }
       },
       "metriques": {}
