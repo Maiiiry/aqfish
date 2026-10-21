@@ -1440,6 +1440,12 @@
           "debut": "2026-10-21T17:13:19.520Z",
           "fin": "2026-10-21T17:14:10.236Z",
           "note": "Issue #105 : Bassin enterré, sol et berge autour de la margelle (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T17:14:39.932Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
