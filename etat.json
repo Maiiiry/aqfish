@@ -1328,10 +1328,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T00:25:39.500Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T00:26:14.891Z",
+          "note": "Issue #103 : Nénuphars flottants du bassin (M)"
         }
       },
       "metriques": {}
