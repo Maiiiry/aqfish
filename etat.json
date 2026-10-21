@@ -1374,6 +1374,12 @@
           "debut": "2026-10-21T12:37:56.384Z",
           "fin": "2026-10-21T13:35:58.658Z",
           "note": "PR #116 : fleurs de nénuphar et lotus (#104), CI verte ; verify 1470 unitaires + 153 e2e ; captures tropicales identiques à l'octet (hors front-panneau) ; +2 captures bassin (minuit, sans filtre) ; ADR 0030"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T13:36:30.620Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
