@@ -1380,6 +1380,12 @@
           "debut": "2026-10-21T13:36:30.620Z",
           "fin": "2026-10-21T14:11:14.389Z",
           "note": "Verdict OK, 0 bug bloquant, verify 153 e2e, +4 e2e fleurs, captures publiées (15 tropicales identiques)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T14:11:41.249Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
