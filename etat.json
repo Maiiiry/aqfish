@@ -1404,6 +1404,12 @@
           "debut": "2026-10-21T14:37:51.999Z",
           "fin": "2026-10-21T14:38:34.947Z",
           "note": "Issue #117 : Nourriture plus discrète, points et voxels (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T14:39:03.922Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
