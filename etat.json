@@ -1446,6 +1446,19 @@
         "statut": "termine",
         "note": "10 cycles, 0 alerte bloquante"
       }
+    },
+    "2026-10-21": {
+      "metriques": {
+        "cycles": 8,
+        "livres": 7,
+        "version": "v0.5.6",
+        "tests": 1346,
+        "couvertureLignes": 98.33,
+        "lignesCode": 11806,
+        "bugsOuverts": 1,
+        "ciMain": "success",
+        "mutation": 93.55
+      }
     }
   }
 }
