@@ -1382,10 +1382,10 @@
           "note": "Verdict OK, 0 bug bloquant, verify 153 e2e, +4 e2e fleurs, captures publiées (15 tropicales identiques)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T14:11:41.249Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T14:37:25.304Z",
+          "note": "PR #116 fusionnée → v0.6.1 (release créée, main verte) ; dette #118 ; suppression de branche refusée par le proxy"
         }
       },
       "metriques": {}
