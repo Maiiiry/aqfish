@@ -1,3 +1,4 @@
-# Captures QA, cycle 38 (#105)
-Branche cycle/c038-bassin-enterre, PR #121, commit 94734b2, graine 42, t = 30 s, 1280 × 720.
-Les captures du bac tropical sont identiques à l'octet à la série précédente (hors front-panneau, temps réel).
+# Captures c039
+- Branche : cycle/c039-pluie (PR #124), commit af13df3
+- Graine : par défaut des captures (seed=42), time=30
+- 36 captures ; 33 identiques à la série précédente, 2 nouvelles (bassin-*-pluie), front-panneau change (ligne R)
