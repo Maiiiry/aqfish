@@ -1338,6 +1338,12 @@
           "debut": "2026-10-21T00:26:42.875Z",
           "fin": "2026-10-21T01:51:39.722Z",
           "note": "PR #113 : nénuphars flottants du bassin (#103), CI verte ; verify 1421 unitaires + 151 e2e ; captures tropicales identiques à l'octet (hors front-panneau, non déterministe sur main aussi)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T01:52:06.557Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
