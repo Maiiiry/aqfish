@@ -1452,6 +1452,12 @@
           "debut": "2026-10-21T18:14:23.880Z",
           "fin": "2026-10-21T18:49:56.121Z",
           "note": "Verdict OK, 0 bug, 5 e2e ajoutés (bassin-enterre), captures publiées (tropical identique)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T18:50:19.105Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
