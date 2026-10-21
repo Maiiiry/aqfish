@@ -126,6 +126,10 @@ describe('AquariumView (pipeline pixel art)', () => {
     ]);
   });
 
+  it('parcourt les couches d’effets (bulles, puis pluie) dans une liste (issue #125)', () => {
+    expect(view.effectLayerNames).toEqual(['bulles', 'pluie']);
+  });
+
   it('place les poissons du monde avant le rendu ; ignore les appels après destruction', () => {
     const world = createDefaultWorld(42);
     view.updateFish(world.entities, 0.5);
@@ -492,5 +496,38 @@ describe('AquariumView (gestes de la caméra, #74)', () => {
   it('associe chaque action déclarée à une action distincte d’OrbitControls', () => {
     expect(new Set(Object.values(ORBIT_MOUSE_ACTIONS)).size).toBe(3);
     expect(new Set(Object.values(ORBIT_TOUCH_ACTIONS)).size).toBe(4);
+  });
+});
+
+describe('AquariumView (ronds de pluie vus de biais, #125)', () => {
+  it('tracé de biais en trois-quarts, habituel de dessus, de face et de dessous', () => {
+    const view = new AquariumView({
+      canvas: document.createElement('canvas'),
+      rendererFactory: () => new RecordingRenderer(),
+      pixelRatio: 1,
+      preset: 'top',
+      interactive: false,
+      environment: POND,
+    });
+    view.resize(1280, 720);
+    view.setRain(true);
+    const oblique: Record<string, boolean> = {};
+    for (const preset of ['top', 'bottom', 'front', 'side', 'three-quarter'] as const) {
+      view.applyPreset(preset);
+      view.renderFrame();
+      oblique[preset] = view.rainObliqueView;
+    }
+    expect(oblique).toEqual({
+      top: false,
+      bottom: false,
+      front: false,
+      side: false,
+      'three-quarter': true,
+    });
+    // Sans filtre aussi : le choix ne dépend que de la caméra.
+    view.setFilter('aucun');
+    view.renderFrame();
+    expect(view.rainObliqueView).toBe(true);
+    view.dispose();
   });
 });
