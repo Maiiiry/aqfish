@@ -1524,6 +1524,12 @@
           "debut": "2026-10-21T22:15:29.062Z",
           "fin": "2026-10-21T23:32:01.794Z",
           "note": "Verdict RÉSERVES (top pluie 81 px ≠ ; pluie 3/4 très discrète), 0 bug, captures c040 publiées, mutation 86,4 % sur 3 fichiers, issue dette"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T23:32:24.322Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
