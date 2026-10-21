@@ -1490,10 +1490,10 @@
           "note": "Verdict OK, 0 bug, captures publiées (bassin sec et tropical identiques, pluie lisible)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T20:53:53.043Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T21:14:45.745Z",
+          "note": "PR #124 fusionnée → v0.6.4 (release créée, main verte) ; dette #125"
         }
       },
       "metriques": {}
