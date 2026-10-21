@@ -1448,10 +1448,10 @@
           "note": "PR #121 : bassin enterré, sol d'herbe et coupe sous le sol (#105), CI verte ; verify 1514 unitaires + 162 e2e ; 25 captures tropicales identiques à l'octet ; avant/après dans captures/c038/dev"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T18:14:23.880Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T18:49:56.121Z",
+          "note": "Verdict OK, 0 bug, 5 e2e ajoutés (bassin-enterre), captures publiées (tropical identique)"
         }
       },
       "metriques": {}
