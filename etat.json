@@ -1310,10 +1310,10 @@
           "note": "Verdict OK, 1 bug mineur (#112, 320 px), verify 149 e2e, captures publiées (18/19 identiques)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-20T23:27:06.876Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T00:25:13.532Z",
+          "note": "PR #111 fusionnée → v0.5.6 (release créée, main verte) ; PR #109 (roadmap) fusionnée ; suppression de branche refusée par l'environnement"
         }
       },
       "metriques": {}
