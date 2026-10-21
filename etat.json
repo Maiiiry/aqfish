@@ -1484,10 +1484,10 @@
           "note": "PR #124 : pluie dans le bassin (#106), CI verte ; verify 1560+ unitaires + 172 e2e ; 33/34 captures identiques à l'octet (front-panneau : ligne R) ; partiel : assombrissement retiré → #123"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T20:17:48.663Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T20:53:26.688Z",
+          "note": "Verdict OK, 0 bug, captures publiées (bassin sec et tropical identiques, pluie lisible)"
         }
       },
       "metriques": {}
