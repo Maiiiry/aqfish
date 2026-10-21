@@ -1346,10 +1346,10 @@
           "note": "Verdict OK, 0 bug bloquant (1 détail cosmétique noté), verify 151 e2e, +2 e2e graines extrêmes, captures publiées (15/16 tropicales identiques)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T12:17:43.025Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T12:36:20.015Z",
+          "note": "PR #113 fusionnée → v0.6.0 (release créée, main verte) ; dette #115 (finitions nénuphars)"
         }
       },
       "metriques": {}
