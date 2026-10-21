@@ -1400,10 +1400,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T14:37:51.999Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T14:38:34.947Z",
+          "note": "Issue #117 : Nourriture plus discrète, points et voxels (M)"
         }
       },
       "metriques": {}
