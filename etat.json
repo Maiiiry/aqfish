@@ -1488,6 +1488,12 @@
           "debut": "2026-10-21T20:17:48.663Z",
           "fin": "2026-10-21T20:53:26.688Z",
           "note": "Verdict OK, 0 bug, captures publiées (bassin sec et tropical identiques, pluie lisible)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-21T20:53:53.043Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
