@@ -1359,7 +1359,7 @@
       "date": "2026-10-21",
       "debut": "2026-10-21T12:36:49.454Z",
       "type": "fonctionnalite",
-      "issue": null,
+      "issue": 104,
       "pr": null,
       "version": null,
       "phases": {
