@@ -1472,10 +1472,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-21T19:11:11.533Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-21T19:12:50.716Z",
+          "note": "Issue #106 : Pluie dans le bassin, touche R (M)"
         }
       },
       "metriques": {}
