@@ -1829,7 +1829,7 @@
       "type": "fonctionnalite",
       "issue": 132,
       "pr": 154,
-      "version": null,
+      "version": "v0.8.0",
       "phases": {
         "planif": {
           "statut": "termine",
