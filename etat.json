@@ -1745,6 +1745,19 @@
         "statut": "termine",
         "note": "8 cycles, 2 alertes (pause demandee, duree des cycles)"
       }
+    },
+    "2026-10-22": {
+      "metriques": {
+        "cycles": 8,
+        "livres": 8,
+        "version": "v0.7.0",
+        "tests": 1591,
+        "couvertureLignes": 98.58,
+        "lignesCode": 15174,
+        "bugsOuverts": 1,
+        "ciMain": "success",
+        "mutation": 86.39
+      }
     }
   }
 }
