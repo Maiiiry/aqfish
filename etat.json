@@ -1792,7 +1792,7 @@
       "debut": "2026-10-22T17:50:55.290Z",
       "type": "retro",
       "issue": 152,
-      "pr": null,
+      "pr": 153,
       "version": null,
       "phases": {
         "planif": {
