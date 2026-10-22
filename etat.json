@@ -1848,6 +1848,12 @@
           "debut": "2026-10-22T23:16:39.976Z",
           "fin": "2026-10-22T23:28:25.562Z",
           "note": "Verdict OK, 0 bug, captures c049 publiées (seules paludarium-* et front-panneau diffèrent de main), +4 tests e2e ; chromium 1194 absent, lien de remplacement"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T23:28:59.334Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
