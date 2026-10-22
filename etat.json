@@ -1770,6 +1770,12 @@
           "debut": "2026-10-22T14:38:46.429Z",
           "fin": "2026-10-22T15:17:49.485Z",
           "note": "PR #146 : terrain sans état de module, sens de l'eau dans TerrainSettings, ranges sans allocation (#142, #144 pts 2-3), CI verte ; verify 1727 unitaires + 213 e2e ; 41/42 captures identiques à c046 (front-panneau connu) ; reste de #142 reporté dans #147"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T15:18:18.022Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
