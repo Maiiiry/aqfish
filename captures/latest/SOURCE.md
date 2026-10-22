@@ -1,3 +1,4 @@
-Branche : cycle/c043-paludarium (PR #139), commit e6c894d
-Graine et temps : défauts du harnais de captures.
-Série générée par QA, cycle 43. front-panneau.png non reproductible à l'octet (voir docs/PIEGES.md).
+# Captures c044 (QA)
+- Branche : cycle/c044-axolotl (PR #141), commit 23394a0
+- Graine : 42 (valeur par défaut des captures)
+- Rendu logiciel SwiftShader, 42 captures en 49,5 s
