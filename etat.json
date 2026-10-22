@@ -1668,6 +1668,12 @@
           "debut": "2026-10-22T07:51:09.809Z",
           "fin": "2026-10-22T08:29:56.201Z",
           "note": "Verdict OK, 0 bug bloquant (1 remarque contraste), 6 e2e ajoutés, captures c044 publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T08:30:22.199Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
