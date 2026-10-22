@@ -1664,10 +1664,10 @@
           "note": "PR #141 : axolotl dans le paludarium (#130), marche/nage/remontée (ADR 0035), CI verte ; verify 1668 unitaires + 189 e2e ; 36 captures bac/bassin identiques à l'octet (hors front-panneau), c044-dev publiées"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T07:51:09.809Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T08:29:56.201Z",
+          "note": "Verdict OK, 0 bug bloquant (1 remarque contraste), 6 e2e ajoutés, captures c044 publiées"
         }
       },
       "metriques": {}
