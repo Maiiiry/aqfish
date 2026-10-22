@@ -1634,10 +1634,10 @@
           "note": "Verdict OK, 0 bug bloquant (1 remarque moiré), 8 e2e ajoutés, captures c043 publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T06:14:34.991Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T06:36:04.495Z",
+          "note": "PR #139 fusionnée → v0.7.1 (release créée, main verte) ; dette #140"
         }
       },
       "metriques": {}
