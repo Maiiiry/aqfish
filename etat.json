@@ -1844,10 +1844,10 @@
           "note": "PR #154 : mousses et racines de la berge du paludarium (#132), CI verte ; verify 1770 unitaires + 220 e2e ; captures : seules paludarium-* et front-panneau changent ; brume/condensation optionnelles non faites"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T23:16:39.976Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T23:28:25.562Z",
+          "note": "Verdict OK, 0 bug, captures c049 publiées (seules paludarium-* et front-panneau diffèrent de main), +4 tests e2e ; chromium 1194 absent, lien de remplacement"
         }
       },
       "metriques": {}
