@@ -1814,10 +1814,10 @@
           "note": "Verdict OK, 0 bug, captures c048 publiées (41/42 identiques), mutation non applicable (retro)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T19:52:02.448Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T20:25:45.863Z",
+          "note": "PR #153 fusionnée → v0.7.6 (release créée, main verte) ; pied d'attribution retiré de la description de PR"
         }
       },
       "metriques": {}
