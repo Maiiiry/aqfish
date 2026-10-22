@@ -1706,10 +1706,10 @@
           "note": "Verdict OK, 0 bug (1 remarque lisibilité : grenouilles superposées en 3/4), 8 e2e ajoutés, CI verte, captures c045 publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T11:16:12.545Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T11:51:20.171Z",
+          "note": "PR #143 fusionnée → v0.7.3 (release créée, main verte) ; dette #144 ; pied de page d'attribution réajouté par l'environnement à la description de PR, non retirable"
         }
       },
       "metriques": {}
