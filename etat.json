@@ -1713,6 +1713,24 @@
         }
       },
       "metriques": {}
+    },
+    "46": {
+      "numero": 46,
+      "date": "2026-10-22",
+      "debut": "2026-10-22T11:51:50.012Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T11:51:50.012Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
