@@ -1688,10 +1688,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T08:56:02.379Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T08:56:48.916Z",
+          "note": "Issue #131 : Grenouilles, déplacements entre terre et eau (M)"
         }
       },
       "metriques": {}
