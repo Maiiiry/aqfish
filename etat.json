@@ -1785,6 +1785,24 @@
         }
       },
       "metriques": {}
+    },
+    "48": {
+      "numero": 48,
+      "date": "2026-10-22",
+      "debut": "2026-10-22T17:50:55.290Z",
+      "type": "retro",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T17:50:55.290Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
