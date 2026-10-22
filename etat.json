@@ -1584,6 +1584,12 @@
           "debut": "2026-10-22T02:17:16.292Z",
           "fin": "2026-10-22T02:17:58.653Z",
           "note": "Issue #107 : Feuilles mortes qui flottent sur le bassin (S)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T02:18:27.703Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
