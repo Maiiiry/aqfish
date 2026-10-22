@@ -1764,6 +1764,12 @@
           "debut": "2026-10-22T14:37:04.760Z",
           "fin": "2026-10-22T14:38:09.284Z",
           "note": "Issue #142 : dette terrain (état de module) et grenouilles (allocation, direction de l'eau) (S)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T14:38:46.429Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
