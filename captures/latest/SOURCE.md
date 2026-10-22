@@ -1,6 +1,7 @@
-# Captures c047
-- Branche : cycle/c047-dette-terrain-grenouilles
-- PR : #146 (dette terrain et grenouilles, #142)
-- Commit : 86b4316
-- Graine : 42, t = 30 s
-- 41 captures sur 42 identiques à l'octet à c046 ; seule `front-panneau.png` diffère (position des poissons, panneau ouvert en temps réel : écart connu, bac tropical sans terrain).
+# c048 QA
+
+Branche : cycle/c048-panneaux-exclusifs
+PR : #153
+Commit : 8e640af5405f704e9c6c4e5b8cdb61e54bce4297
+Graine : défaut des captures (42 pour l'exploration)
+Temps : captures en 50 s ; 41/42 identiques à c047 (front-panneau non reproductible, connu)
