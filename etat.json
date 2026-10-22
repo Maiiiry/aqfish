@@ -1704,6 +1704,12 @@
           "debut": "2026-10-22T10:08:23.055Z",
           "fin": "2026-10-22T11:15:35.740Z",
           "note": "Verdict OK, 0 bug (1 remarque lisibilité : grenouilles superposées en 3/4), 8 e2e ajoutés, CI verte, captures c045 publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T11:16:12.545Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
