@@ -1812,6 +1812,12 @@
           "debut": "2026-10-22T19:05:32.813Z",
           "fin": "2026-10-22T19:51:39.004Z",
           "note": "Verdict OK, 0 bug, captures c048 publiées (41/42 identiques), mutation non applicable (retro)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T19:52:02.448Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
