@@ -1806,6 +1806,12 @@
           "debut": "2026-10-22T17:53:29.115Z",
           "fin": "2026-10-22T19:04:44.616Z",
           "note": "PR #153 : Réglages et Commandes exclusifs sous 640 px (#136), CI verte ; verify 1744 unitaires + 220 e2e ; 41/42 captures identiques à c047 (front-panneau connu) ; test #112 ajusté (commit séparé)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T19:05:32.813Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
