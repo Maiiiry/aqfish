@@ -1554,6 +1554,12 @@
           "debut": "2026-10-21T23:54:35.348Z",
           "fin": "2026-10-22T01:13:19.873Z",
           "note": "PR #135 : bouton Commandes cliquable à 320×568 (#112), CI verte ; verify 1557 unitaires + 177 e2e ; 35 captures identiques, c041-dev publiées"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T01:13:44.253Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
