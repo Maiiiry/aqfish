@@ -1562,10 +1562,10 @@
           "note": "Verdict OK, 1 bug mineur (#136), captures c041 publiées"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T01:53:09.964Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T02:16:46.543Z",
+          "note": "PR #135 fusionnée → v0.6.6 (release créée, main verte)"
         }
       },
       "metriques": {}
