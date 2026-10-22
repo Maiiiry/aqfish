@@ -1700,10 +1700,10 @@
           "note": "PR #143 : grenouilles du paludarium (#131), posée/saut/entrée/nage/sortie (ADR 0036), CI verte ; verify 1699 unitaires + 198 e2e ; 36 captures bac/bassin identiques à l'octet (hors front-panneau), c045-dev publiées"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T10:08:23.055Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T11:15:35.740Z",
+          "note": "Verdict OK, 0 bug (1 remarque lisibilité : grenouilles superposées en 3/4), 8 e2e ajoutés, CI verte, captures c045 publiées"
         }
       },
       "metriques": {}
