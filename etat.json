@@ -1836,6 +1836,12 @@
           "debut": "2026-10-22T22:05:59.074Z",
           "fin": "2026-10-22T22:06:43.332Z",
           "note": "Issue #132 : Paludarium, mousses, racines et ambiance humide (S à M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T22:07:12.476Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
