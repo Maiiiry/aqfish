@@ -1842,6 +1842,12 @@
           "debut": "2026-10-22T22:07:12.476Z",
           "fin": "2026-10-22T23:16:13.559Z",
           "note": "PR #154 : mousses et racines de la berge du paludarium (#132), CI verte ; verify 1770 unitaires + 220 e2e ; captures : seules paludarium-* et front-panneau changent ; brume/condensation optionnelles non faites"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T23:16:39.976Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
