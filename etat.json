@@ -1694,10 +1694,10 @@
           "note": "Issue #131 : Grenouilles, déplacements entre terre et eau (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T08:57:15.232Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T10:07:52.454Z",
+          "note": "PR #143 : grenouilles du paludarium (#131), posée/saut/entrée/nage/sortie (ADR 0036), CI verte ; verify 1699 unitaires + 198 e2e ; 36 captures bac/bassin identiques à l'octet (hors front-panneau), c045-dev publiées"
         }
       },
       "metriques": {}
