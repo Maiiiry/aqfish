@@ -1776,6 +1776,12 @@
           "debut": "2026-10-22T15:18:18.022Z",
           "fin": "2026-10-22T17:22:20.881Z",
           "note": "Verdict OK, 0 bug, captures c047 publiées (41/42 identiques), mutation non mesurée (frog.ts > 85 min)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T17:23:01.138Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
