@@ -1832,10 +1832,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T22:05:59.074Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T22:06:43.332Z",
+          "note": "Issue #132 : Paludarium, mousses, racines et ambiance humide (S à M)"
         }
       },
       "metriques": {}
