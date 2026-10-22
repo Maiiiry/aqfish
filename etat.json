@@ -1560,6 +1560,12 @@
           "debut": "2026-10-22T01:13:44.253Z",
           "fin": "2026-10-22T01:52:41.837Z",
           "note": "Verdict OK, 1 bug mineur (#136), captures c041 publiées"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T01:53:09.964Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
