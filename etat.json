@@ -1778,10 +1778,10 @@
           "note": "Verdict OK, 0 bug, captures c047 publiées (41/42 identiques), mutation non mesurée (frog.ts > 85 min)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T17:23:01.138Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T17:50:21.693Z",
+          "note": "PR #146 fusionnée → v0.7.5 (release créée, main verte) ; pas de nouvelle dette"
         }
       },
       "metriques": {}
