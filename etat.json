@@ -1616,10 +1616,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T04:29:38.120Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T04:30:10.039Z",
+          "note": "Issue #129 : Paludarium, environnement à deux niveaux, terre et eau (M)"
         }
       },
       "metriques": {}
