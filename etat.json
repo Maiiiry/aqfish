@@ -1677,6 +1677,24 @@
         }
       },
       "metriques": {}
+    },
+    "45": {
+      "numero": 45,
+      "date": "2026-10-22",
+      "debut": "2026-10-22T08:56:02.379Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T08:56:02.379Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
