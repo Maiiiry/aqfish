@@ -1613,7 +1613,7 @@
       "type": "fonctionnalite",
       "issue": 129,
       "pr": 139,
-      "version": null,
+      "version": "v0.7.1",
       "phases": {
         "planif": {
           "statut": "termine",
