@@ -1,6 +1,3 @@
-Cycle 42, QA
-Branche : cycle/c042-feuilles-mortes
-PR : #137
-Commit : 5be0b32
-Graine : 42 (défaut des captures)
-Temps : défaut des captures
+Branche : cycle/c043-paludarium (PR #139), commit e6c894d
+Graine et temps : défauts du harnais de captures.
+Série générée par QA, cycle 43. front-panneau.png non reproductible à l'octet (voir docs/PIEGES.md).
