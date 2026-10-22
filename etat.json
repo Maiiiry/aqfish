@@ -1736,10 +1736,10 @@
           "note": "PR #145 : tritons du paludarium (#133), machine amphibie réglée (ADR 0037), CI verte ; verify 1720 unitaires + 210 e2e ; captures bac/bassin identiques à l'octet (hors front-panneau), c046-dev publiées ; main : verify interrompu à 95/206 e2e sans échec (lint, unitaires, build OK)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T13:15:37.511Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T13:46:41.553Z",
+          "note": "Verdict OK, 0 bug, 3 e2e ajoutés, captures c046 publiées"
         }
       },
       "metriques": {}
