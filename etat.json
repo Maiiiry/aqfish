@@ -1628,10 +1628,10 @@
           "note": "PR #139 : paludarium, berge émergée et eau sur une carte de hauteurs (#129), CI verte ; verify 1632 unitaires + 181 e2e ; 36 captures bac/bassin identiques à l'octet (hors front-panneau), c043-dev publiées"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T05:35:59.323Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T06:14:07.759Z",
+          "note": "Verdict OK, 0 bug bloquant (1 remarque moiré), 8 e2e ajoutés, captures c043 publiées"
         }
       },
       "metriques": {}
