@@ -1793,7 +1793,7 @@
       "type": "retro",
       "issue": 152,
       "pr": 153,
-      "version": null,
+      "version": "v0.7.6",
       "phases": {
         "planif": {
           "statut": "termine",
