@@ -1592,10 +1592,10 @@
           "note": "PR #137 : feuilles mortes qui flottent sur le bassin (#107), CI verte ; verify 1591 unitaires + 179 e2e ; 26 captures du bac identiques à l'octet, c042-dev publiées"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T03:30:34.646Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T04:06:59.343Z",
+          "note": "Verdict OK, 0 bug, captures c042 publiées"
         }
       },
       "metriques": {}
