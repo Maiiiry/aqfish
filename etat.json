@@ -1796,10 +1796,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T17:50:55.290Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T17:52:55.410Z",
+          "note": "Issue #152 : Rétro sprint 7, plan sprint 8 (récif : #132, #148-#151), Dev sur bug #136 (S)"
         }
       },
       "metriques": {}
