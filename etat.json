@@ -1622,10 +1622,10 @@
           "note": "Issue #129 : Paludarium, environnement à deux niveaux, terre et eau (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T04:30:34.902Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T05:35:28.053Z",
+          "note": "PR #139 : paludarium, berge émergée et eau sur une carte de hauteurs (#129), CI verte ; verify 1632 unitaires + 181 e2e ; 36 captures bac/bassin identiques à l'octet (hors front-panneau), c043-dev publiées"
         }
       },
       "metriques": {}
