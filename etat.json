@@ -1802,10 +1802,10 @@
           "note": "Issue #152 : Rétro sprint 7, plan sprint 8 (récif : #132, #148-#151), Dev sur bug #136 (S)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T17:53:29.115Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-22T19:04:44.616Z",
+          "note": "PR #153 : Réglages et Commandes exclusifs sous 640 px (#136), CI verte ; verify 1744 unitaires + 220 e2e ; 41/42 captures identiques à c047 (front-panneau connu) ; test #112 ajusté (commit séparé)"
         }
       },
       "metriques": {}
