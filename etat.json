@@ -1749,6 +1749,24 @@
         }
       },
       "metriques": {}
+    },
+    "47": {
+      "numero": 47,
+      "date": "2026-10-22",
+      "debut": "2026-10-22T14:37:04.760Z",
+      "type": "dette",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-22T14:37:04.760Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
