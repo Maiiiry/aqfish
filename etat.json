@@ -1958,10 +1958,10 @@
           "note": "Verdict RÉSERVES (clowns peu lisibles, issue #161), 0 régression, captures c052 publiées (seules recif-* et front-panneau diffèrent), +11 tests e2e (anemones-qa) ; unitaires+build+18 e2e OK en local, e2e complet via CI (en cours sur e110f65)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T08:35:10.028Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T09:15:24.327Z",
+          "note": "PR #160 fusionnée → v0.8.3 (release créée, main verte) ; réserve QA suivie dans #161 ; dette #162 ; suppression de la branche cycle/c052-anemones-clowns refusée par l'environnement, à faire par Mathis"
         }
       },
       "metriques": {}
