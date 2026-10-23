@@ -2022,6 +2022,12 @@
           "debut": "2026-10-23T12:15:00.435Z",
           "fin": "2026-10-23T13:20:55.316Z",
           "note": "PR #165 : disposition du récif en cache + suites revue clowns (#162, #159 pt 2), CI verte ; local : format+lint+1893 unitaires+build, e2e partiel (1 délai dépassé sous charge, repasse seul) ; 48 captures identiques à c053 ; attache par rang conservée (stable, prouvée), ADR 0041 complétée ; pied d'attribution ajouté par le serveur à la PR, non retirable"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T13:21:24.184Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
