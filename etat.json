@@ -2088,6 +2088,12 @@
           "debut": "2026-10-23T17:27:21.990Z",
           "fin": "2026-10-23T17:27:53.669Z",
           "note": "Issue #167 : Éditeur de décor, mode édition, ajout et suppression (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T17:28:25.613Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
