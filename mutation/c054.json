@@ -1,0 +1,1 @@
+{"score": null, "survivants": null, "perimetre": "src/app/sim/anemones.ts (297 mutants)", "note": "essai interrompu : le processus de test de StrykerJS plante (FixtureParseError vitest, argument de fixture) après la passe initiale réussie (1056 tests, 1 min 43) ; non mesuré ce cycle"}
