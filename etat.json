@@ -1992,6 +1992,12 @@
           "debut": "2026-10-23T10:29:10.615Z",
           "fin": "2026-10-23T10:54:35.998Z",
           "note": "Verdict OK, 0 bug, 2 remarques mineures, captures c053 publiées (seules recif-* et front-panneau diffèrent), e2e complet via CI verte"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T10:55:16.516Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
