@@ -1946,10 +1946,10 @@
           "note": "Issue #150 : Récif, anémones et poissons-clowns (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T07:01:04.940Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T08:17:28.864Z",
+          "note": "PR #160 : anémones et poissons-clowns (#150), CI verte ; local : unitaires 1864 + build + 56 e2e récif/panneaux/sauvegarde + 50 captures (e2e complet laissé à la CI) ; ADR 0041 ; 43 captures hors récif identiques à l'octet ; captures c052-dev publiées ; limites : coraux 2-8 selon graine (#159), orange clown non assombri la nuit ; pied d'attribution ajouté par le serveur à la PR, non retirable"
         }
       },
       "metriques": {}
