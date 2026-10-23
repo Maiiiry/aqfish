@@ -1956,6 +1956,12 @@
           "debut": "2026-10-23T08:18:01.121Z",
           "fin": "2026-10-23T08:34:25.985Z",
           "note": "Verdict RÉSERVES (clowns peu lisibles, issue #161), 0 régression, captures c052 publiées (seules recif-* et front-panneau diffèrent), +11 tests e2e (anemones-qa) ; unitaires+build+18 e2e OK en local, e2e complet via CI (en cours sur e110f65)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T08:35:10.028Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
