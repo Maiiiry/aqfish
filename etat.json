@@ -1937,7 +1937,7 @@
       "type": "fonctionnalite",
       "issue": 150,
       "pr": 160,
-      "version": null,
+      "version": "v0.8.3",
       "phases": {
         "planif": {
           "statut": "termine",
