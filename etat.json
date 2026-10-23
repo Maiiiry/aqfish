@@ -1973,7 +1973,7 @@
       "type": "fonctionnalite",
       "issue": 151,
       "pr": 163,
-      "version": null,
+      "version": "v0.8.4",
       "phases": {
         "planif": {
           "statut": "termine",
