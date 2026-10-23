@@ -1920,6 +1920,12 @@
           "debut": "2026-10-23T05:20:19.873Z",
           "fin": "2026-10-23T06:25:35.654Z",
           "note": "Verdict OK, 0 bug, captures c051 publiées (seuls recif-* et front-panneau diffèrent), +6 tests e2e (coraux-qa) ; CI verte ; verify local interrompu après unitaires+build (e2e trop lent sous charge), e2e complet via CI"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T06:26:01.083Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
