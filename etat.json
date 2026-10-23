@@ -1914,6 +1914,12 @@
           "debut": "2026-10-23T03:27:23.451Z",
           "fin": "2026-10-23T05:19:58.302Z",
           "note": "PR #158 : coraux du récif (#149), CI verte ; verify local OK (1836 unitaires, e2e en deux temps après redémarrage du conteneur) ; ADR 0040 (boîte d'obstacle, violets en tons du récif) ; captures c051-dev publiées, 41 captures hors récif identiques à l'octet ; limite : teintes confondues la nuit"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T05:20:19.873Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
