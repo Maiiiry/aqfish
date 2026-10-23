@@ -2058,6 +2058,12 @@
           "debut": "2026-10-23T14:58:12.705Z",
           "fin": "2026-10-23T16:31:10.514Z",
           "note": "PR #174 : clowns lisibles (#161), un liseré par bande, 9 cm ; CI verte ; local format+lint+1895 unitaires+build OK, e2e 217/256 sans échec (interrompu, lent) ; autres envts identiques à c054 ; captures c055-dev"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T16:31:49.150Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
