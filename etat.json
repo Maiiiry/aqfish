@@ -2096,10 +2096,10 @@
           "note": "PR #175 : éditeur de décor (mode édition, ajout, sélection, suppression), CI verte ; tropical seulement ; local format+lint+1934 unitaires+build OK, e2e nouveaux OK ; captures c056-dev (hors édition identiques à c055 sauf front-panneau)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T19:23:19.144Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T19:47:15.093Z",
+          "note": "Verdict OK, 0 bug, captures c056 publiées (50/51, trajectoires échoue en local), CI verte"
         }
       },
       "metriques": {}
