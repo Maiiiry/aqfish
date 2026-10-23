@@ -1886,10 +1886,10 @@
           "note": "Verdict OK, 0 bug, captures c050 publiées (seuls recif-* et front-panneau diffèrent), +9 tests e2e (recif-qa) ; verify 1786 unitaires + 275 e2e ; commit QA signé Claude (auteur à corriger)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T02:50:06.858Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T03:25:53.417Z",
+          "note": "PR #156 fusionnée → v0.8.1 (release créée, main verte) ; dette #157 (sable vu de dessus, rides vertes) ; commit QA signé Claude effacé par le squash (auteur Mathis, message explicite) ; pied d'attribution ré-ajouté par le serveur à chaque édition de la PR/revue QA, non retiré"
         }
       },
       "metriques": {}
