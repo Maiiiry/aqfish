@@ -2048,10 +2048,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T14:55:05.100Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T14:57:42.392Z",
+          "note": "Issue #172 : Rétro sprint 8, plan sprint 9 (#167-#171), Dev : bug #161 (S) ; PR doc roadmap"
         }
       },
       "metriques": {}
