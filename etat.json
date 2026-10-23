@@ -2028,6 +2028,12 @@
           "debut": "2026-10-23T13:21:24.184Z",
           "fin": "2026-10-23T14:06:33.886Z",
           "note": "Verdict OK, 0 bug, captures c054 publiées (50, identiques à c053), CI verte, mutation non mesurée (Stryker plante, issue dette)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T14:07:01.688Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
