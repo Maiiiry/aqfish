@@ -2124,6 +2124,12 @@
           "debut": "2026-10-23T22:05:36.892Z",
           "fin": "2026-10-23T22:06:05.351Z",
           "note": "Issue #168 : Éditeur de décor, déplacer, tourner, redimensionner (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T22:06:36.213Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
