@@ -2030,10 +2030,10 @@
           "note": "Verdict OK, 0 bug, captures c054 publiées (50, identiques à c053), CI verte, mutation non mesurée (Stryker plante, issue dette)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T14:07:01.688Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T14:54:35.353Z",
+          "note": "PR #165 fusionnée → v0.8.5 (release créée, main verte) ; aucune dette nouvelle ; suppression de la branche cycle/c054-dette-clowns-coraux refusée par l'environnement, à faire par Mathis ; pied d'attribution réajouté par le serveur à la PR"
         }
       },
       "metriques": {}
