@@ -2037,6 +2037,24 @@
         }
       },
       "metriques": {}
+    },
+    "55": {
+      "numero": 55,
+      "date": "2026-10-23",
+      "debut": "2026-10-23T14:55:05.100Z",
+      "type": "retro",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T14:55:05.100Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
