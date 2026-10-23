@@ -2066,10 +2066,10 @@
           "note": "Verdict OK, 0 bug, captures c055 publiées (50, 6 récif différentes, reste identique à c054), CI verte"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T16:44:46.103Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T17:26:31.241Z",
+          "note": "PR #174 fusionnée → v0.8.6 (release créée, main verte) ; PR #173 (doc roadmap) fusionnée sans version ; aucune dette nouvelle ; suppression de la branche cycle/c055-lisibilite-clowns refusée par l'environnement, à faire par Mathis"
         }
       },
       "metriques": {}
