@@ -2016,6 +2016,12 @@
           "debut": "2026-10-23T12:13:38.684Z",
           "fin": "2026-10-23T12:14:20.174Z",
           "note": "Issue #162 : suites revue poissons-clowns + recalcul coraux à la sauvegarde (#159 pt 2) (S)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T12:15:00.435Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
