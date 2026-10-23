@@ -1878,6 +1878,12 @@
           "debut": "2026-10-23T00:00:34.113Z",
           "fin": "2026-10-23T01:46:54.016Z",
           "note": "PR #156 : récif, eau bleue et sable corallien (#148), CI verte ; verify 1786 unitaires + 226 e2e ; 2 tons d'environnement (ADR 0039), captures des autres environnements identiques à l'octet hors front-panneau ; captures c050-dev publiées ; sable vu de dessus en eau très claire (limite notée)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T01:47:19.031Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
