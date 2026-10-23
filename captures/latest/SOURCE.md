@@ -1,7 +1,9 @@
-# Captures du cycle 51 (QA)
+# Captures c052 (QA)
 
-- Branche : cycle/c051-coraux-recif, PR #158
-- Commit capturé : bb92d80
-- Graine : 42 (captures.spec.ts)
-- Temps : simulation figée (contrat de capture)
-- Écart avec la série précédente (c050) : seuls recif-* (coraux) et front-panneau (non reproductible, voir PIEGES) diffèrent ; les 41 autres sont identiques à l'octet.
+- Branche : `cycle/c052-anemones-clowns` — PR #160 (issue #150)
+- Commit : e110f65 (code de la PR : 466b4cd + tests e2e QA)
+- Graine : celle de `e2e/captures.spec.ts` (fixe) ; récif graine 42
+- Temps : captures produites le 2026-10-23 (SwiftShader)
+- Limite connue : la capture « tracé des trajectoires, vue de dessus » échoue en local
+  (docs/PIEGES.md, cycle 51) ; `trajectoires-*.png` reprennent donc la série précédente.
+- Seules `recif-*` et `front-panneau` diffèrent de la série c051.
