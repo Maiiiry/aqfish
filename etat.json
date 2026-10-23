@@ -1908,6 +1908,12 @@
           "debut": "2026-10-23T03:26:18.041Z",
           "fin": "2026-10-23T03:26:57.805Z",
           "note": "Issue #149 : Récif, coraux dérivés de la graine en voxels (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T03:27:23.451Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
