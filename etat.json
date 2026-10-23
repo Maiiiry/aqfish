@@ -2018,10 +2018,10 @@
           "note": "Issue #162 : suites revue poissons-clowns + recalcul coraux à la sauvegarde (#159 pt 2) (S)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T12:15:00.435Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T13:20:55.316Z",
+          "note": "PR #165 : disposition du récif en cache + suites revue clowns (#162, #159 pt 2), CI verte ; local : format+lint+1893 unitaires+build, e2e partiel (1 délai dépassé sous charge, repasse seul) ; 48 captures identiques à c053 ; attache par rang conservée (stable, prouvée), ADR 0041 complétée ; pied d'attribution ajouté par le serveur à la PR, non retirable"
         }
       },
       "metriques": {}
