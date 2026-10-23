@@ -2064,6 +2064,12 @@
           "debut": "2026-10-23T16:31:49.150Z",
           "fin": "2026-10-23T16:44:18.523Z",
           "note": "Verdict OK, 0 bug, captures c055 publiées (50, 6 récif différentes, reste identique à c054), CI verte"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T16:44:46.103Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
