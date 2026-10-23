@@ -1952,10 +1952,10 @@
           "note": "PR #160 : anémones et poissons-clowns (#150), CI verte ; local : unitaires 1864 + build + 56 e2e récif/panneaux/sauvegarde + 50 captures (e2e complet laissé à la CI) ; ADR 0041 ; 43 captures hors récif identiques à l'octet ; captures c052-dev publiées ; limites : coraux 2-8 selon graine (#159), orange clown non assombri la nuit ; pied d'attribution ajouté par le serveur à la PR, non retirable"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T08:18:01.121Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T08:34:25.985Z",
+          "note": "Verdict RÉSERVES (clowns peu lisibles, issue #161), 0 régression, captures c052 publiées (seules recif-* et front-panneau diffèrent), +11 tests e2e (anemones-qa) ; unitaires+build+18 e2e OK en local, e2e complet via CI (en cours sur e110f65)"
         }
       },
       "metriques": {}
