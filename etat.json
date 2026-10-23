@@ -1884,6 +1884,12 @@
           "debut": "2026-10-23T01:47:19.031Z",
           "fin": "2026-10-23T02:49:31.178Z",
           "note": "Verdict OK, 0 bug, captures c050 publiées (seuls recif-* et front-panneau diffèrent), +9 tests e2e (recif-qa) ; verify 1786 unitaires + 275 e2e ; commit QA signé Claude (auteur à corriger)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T02:50:06.858Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
