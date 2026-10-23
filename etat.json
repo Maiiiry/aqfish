@@ -1972,7 +1972,7 @@
       "debut": "2026-10-23T09:15:52.220Z",
       "type": "fonctionnalite",
       "issue": 151,
-      "pr": null,
+      "pr": 163,
       "version": null,
       "phases": {
         "planif": {
