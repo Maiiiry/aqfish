@@ -1988,10 +1988,10 @@
           "note": "PR #163 : chirurgiens bleus du récif (#151), CI verte ; local : format+lint+1890 unitaires+50 e2e récif/panneau/sauvegarde/chirurgien+49 captures ; ADR 0042 ; 41 captures hors récif identiques à l'octet ; captures c053-dev publiées ; limites : bleu non assombri la nuit (ton du récif), raccourci en trois-quarts ; pied d'attribution ajouté par le serveur à la PR, non retirable"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T10:29:10.615Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T10:54:35.998Z",
+          "note": "Verdict OK, 0 bug, 2 remarques mineures, captures c053 publiées (seules recif-* et front-panneau diffèrent), e2e complet via CI verte"
         }
       },
       "metriques": {}
