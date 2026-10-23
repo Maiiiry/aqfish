@@ -1868,10 +1868,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-22T23:59:30.128Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T00:00:02.173Z",
+          "note": "Issue #148 : Récif, environnement marin, eau bleutée et sable corallien (M)"
         }
       },
       "metriques": {}
