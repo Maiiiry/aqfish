@@ -1929,6 +1929,24 @@
         }
       },
       "metriques": {}
+    },
+    "52": {
+      "numero": 52,
+      "date": "2026-10-23",
+      "debut": "2026-10-23T06:59:54.341Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T06:59:54.341Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
