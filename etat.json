@@ -1922,10 +1922,10 @@
           "note": "Verdict OK, 0 bug, captures c051 publiées (seuls recif-* et front-panneau diffèrent), +6 tests e2e (coraux-qa) ; CI verte ; verify local interrompu après unitaires+build (e2e trop lent sous charge), e2e complet via CI"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T06:26:01.083Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T06:59:28.436Z",
+          "note": "PR #158 fusionnée → v0.8.2 (release créée, main verte) ; dette #159 (nombre de colonies sous le min visé, recalcul des coraux à la sauvegarde) ; pied d'attribution de la PR ajouté par le serveur, non retiré"
         }
       },
       "metriques": {}
