@@ -2007,7 +2007,7 @@
       "date": "2026-10-23",
       "debut": "2026-10-23T12:13:38.684Z",
       "type": "dette",
-      "issue": null,
+      "issue": 162,
       "pr": null,
       "version": null,
       "phases": {
