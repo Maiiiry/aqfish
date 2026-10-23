@@ -2090,10 +2090,10 @@
           "note": "Issue #167 : Éditeur de décor, mode édition, ajout et suppression (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T17:28:25.613Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T19:22:51.680Z",
+          "note": "PR #175 : éditeur de décor (mode édition, ajout, sélection, suppression), CI verte ; tropical seulement ; local format+lint+1934 unitaires+build OK, e2e nouveaux OK ; captures c056-dev (hors édition identiques à c055 sauf front-panneau)"
         }
       },
       "metriques": {}
