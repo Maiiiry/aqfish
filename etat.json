@@ -1872,6 +1872,12 @@
           "debut": "2026-10-22T23:59:30.128Z",
           "fin": "2026-10-23T00:00:02.173Z",
           "note": "Issue #148 : Récif, environnement marin, eau bleutée et sable corallien (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T00:00:34.113Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
