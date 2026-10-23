@@ -1944,6 +1944,12 @@
           "debut": "2026-10-23T06:59:54.341Z",
           "fin": "2026-10-23T07:00:31.698Z",
           "note": "Issue #150 : Récif, anémones et poissons-clowns (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T07:01:04.940Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
