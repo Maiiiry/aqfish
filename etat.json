@@ -2102,10 +2102,10 @@
           "note": "Verdict OK, 0 bug, captures c056 publiées (50/51, trajectoires échoue en local), CI verte"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T19:47:40.009Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T20:32:55.130Z",
+          "note": "PR #175 fusionnée → v0.9.0 (release créée, main verte) ; dette #176 (décor masqué, taille, budget SCSS, aide-mémoire)"
         }
       },
       "metriques": {}
