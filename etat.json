@@ -1940,10 +1940,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T06:59:54.341Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T07:00:31.698Z",
+          "note": "Issue #150 : Récif, anémones et poissons-clowns (M)"
         }
       },
       "metriques": {}
