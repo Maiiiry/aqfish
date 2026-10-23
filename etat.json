@@ -2009,7 +2009,7 @@
       "type": "dette",
       "issue": 162,
       "pr": 165,
-      "version": null,
+      "version": "v0.8.5",
       "phases": {
         "planif": {
           "statut": "termine",
