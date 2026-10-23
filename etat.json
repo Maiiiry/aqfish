@@ -2084,10 +2084,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T17:27:21.990Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T17:27:53.669Z",
+          "note": "Issue #167 : Éditeur de décor, mode édition, ajout et suppression (M)"
         }
       },
       "metriques": {}
