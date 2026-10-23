@@ -1980,6 +1980,12 @@
           "debut": "2026-10-23T09:15:52.220Z",
           "fin": "2026-10-23T09:16:27.093Z",
           "note": "Issue #151 : Récif, chirurgiens bleus en banc (S à M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-23T09:16:53.420Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
