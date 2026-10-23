@@ -1976,10 +1976,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T09:15:52.220Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-23T09:16:27.093Z",
+          "note": "Issue #151 : Récif, chirurgiens bleus en banc (S à M)"
         }
       },
       "metriques": {}
