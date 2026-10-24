@@ -2382,6 +2382,12 @@
           "debut": "2026-10-24T17:50:34.839Z",
           "fin": "2026-10-24T19:47:06.669Z",
           "note": "PR #197 : pièce autour du bac (sol, mur, meuble), CI verte ; 2158 unitaires ; captures piece regardées, 5 habituelles identiques à l'octet ; verify local e2e interrompu à 159/278 sans échec (navigateur 1194 relié)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T19:47:33.065Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
