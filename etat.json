@@ -2160,6 +2160,12 @@
           "debut": "2026-10-24T01:10:49.335Z",
           "fin": "2026-10-24T01:11:17.418Z",
           "note": "Issue #169 : Bois flotté à branches, collision fine (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T01:11:46.179Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
