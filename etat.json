@@ -2196,6 +2196,12 @@
           "debut": "2026-10-24T04:13:36.123Z",
           "fin": "2026-10-24T04:14:01.258Z",
           "note": "Issue #170 : pose par gravité avec Rapier chargé à la demande (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T04:14:26.979Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
