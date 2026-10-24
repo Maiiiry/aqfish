@@ -2210,10 +2210,10 @@
           "note": "Verdict OK, 0 bug, captures c059 publiées (52/53 identiques, front-panneau piège connu), e2e conservation de pose ajouté"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T06:15:59.599Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T06:53:24.957Z",
+          "note": "PR #181 fusionnée → v0.9.3 (release créée, main verte) ; dette #183 (rotation/taille d'un élément élevé)"
         }
       },
       "metriques": {}
