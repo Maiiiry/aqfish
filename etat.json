@@ -2138,10 +2138,10 @@
           "note": "Verdict OK, 0 bug, captures c057 publiées (50/51, trajectoires échoue en local), e2e refus de chevauchement ajouté"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T00:29:52.468Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T01:10:25.759Z",
+          "note": "PR #177 fusionnée → v0.9.1 (release créée, main verte) ; dette #178 ; suppression de la branche refusée par l'environnement (à supprimer par Mathis)"
         }
       },
       "metriques": {}
