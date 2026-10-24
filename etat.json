@@ -2390,10 +2390,10 @@
           "note": "Verdict OK, 0 bug bloquant (2 remarques esthétiques), captures c064 publiées, verify non rejoué d'un bloc (navigateur 1194 absent, contournement) ; piece+panneau e2e verts, pas de test ajouté"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T20:03:15.833Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T20:42:25.240Z",
+          "note": "PR #197 fusionnée → v0.10.1 (release créée, main verte) ; #187 fermée ; dette mineure #198"
         }
       },
       "metriques": {}
