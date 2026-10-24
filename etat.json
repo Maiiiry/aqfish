@@ -2304,6 +2304,12 @@
           "debut": "2026-10-24T13:35:22.228Z",
           "fin": "2026-10-24T13:36:44.183Z",
           "note": "Issue #191 : Rétro sprint 9 (+ dette ancienne #81/#76/#59 pour Dev), 4 issues sprint 10 créées (#187-#190)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T13:37:07.663Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
