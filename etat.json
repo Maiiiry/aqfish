@@ -2192,10 +2192,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T04:13:36.123Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T04:14:01.258Z",
+          "note": "Issue #170 : pose par gravité avec Rapier chargé à la demande (M)"
         }
       },
       "metriques": {}
