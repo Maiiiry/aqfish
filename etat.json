@@ -2198,10 +2198,10 @@
           "note": "Issue #170 : pose par gravité avec Rapier chargé à la demande (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T04:14:26.979Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T05:30:55.613Z",
+          "note": "PR #181 : pose par gravité avec Rapier chargé à la demande (ADR 0046), CI verte ; 2015 unitaires ; captures identiques (52/53, front-panneau piège connu) ; e2e editeur-decor corrigé (refus vérifié sans moteur) ; suite #182"
         }
       },
       "metriques": {}
