@@ -2268,6 +2268,12 @@
           "debut": "2026-10-24T09:36:22.468Z",
           "fin": "2026-10-24T09:36:54.110Z",
           "note": "Issue #178 : dette éditeur (emprise, allocation, auteur) + #183 + #185.3 (S/M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T09:37:25.655Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
