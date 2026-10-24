@@ -2352,6 +2352,12 @@
           "debut": "2026-10-24T16:47:05.114Z",
           "fin": "2026-10-24T17:00:59.456Z",
           "note": "Verdict OK, 0 bug, captures c063 publiées (54/55, trajectoires-top connue), verify complet non rejoué (navigateur Playwright absent puis e2e ciblé OK), pas de test ajouté"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T17:01:30.494Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
