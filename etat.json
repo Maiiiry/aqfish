@@ -2136,6 +2136,12 @@
           "debut": "2026-10-24T00:01:07.024Z",
           "fin": "2026-10-24T00:29:28.315Z",
           "note": "Verdict OK, 0 bug, captures c057 publiées (50/51, trajectoires échoue en local), e2e refus de chevauchement ajouté"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T00:29:52.468Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
