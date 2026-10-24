@@ -2426,10 +2426,10 @@
           "note": "Verdict RÉSERVES : PR partielle avec Closes #188 (retirer le mot-clé) ; 0 bug, CI verte, captures c065 publiées, 4 e2e ajoutés ; verify e2e complet non rejoué en local (lenteur)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T23:19:16.418Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T23:57:43.589Z",
+          "note": "PR #199 fusionnée → v0.10.2 (release créée, main verte) ; #188 laissée ouverte (partiel : interface d'édition) ; dette #200"
         }
       },
       "metriques": {}
