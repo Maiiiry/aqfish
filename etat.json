@@ -2174,10 +2174,10 @@
           "note": "Verdict OK, 0 bug, captures c058 publiées (52/53 identiques, front-panneau piège connu), e2e bois-flotte ajouté (2 tests)"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T03:35:31.155Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T04:13:11.111Z",
+          "note": "PR #179 fusionnée → v0.9.2 (release créée, main verte) ; dette #180 (teinte du bois)"
         }
       },
       "metriques": {}
