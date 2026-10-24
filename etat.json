@@ -2384,10 +2384,10 @@
           "note": "PR #197 : pièce autour du bac (sol, mur, meuble), CI verte ; 2158 unitaires ; captures piece regardées, 5 habituelles identiques à l'octet ; verify local e2e interrompu à 159/278 sans échec (navigateur 1194 relié)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T19:47:33.065Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T20:02:53.969Z",
+          "note": "Verdict OK, 0 bug bloquant (2 remarques esthétiques), captures c064 publiées, verify non rejoué d'un bloc (navigateur 1194 absent, contournement) ; piece+panneau e2e verts, pas de test ajouté"
         }
       },
       "metriques": {}
