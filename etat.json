@@ -2126,10 +2126,10 @@
           "note": "Issue #168 : Éditeur de décor, déplacer, tourner, redimensionner (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-23T22:06:36.213Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T00:00:37.246Z",
+          "note": "PR #177 : déplacer, tourner, redimensionner le décor (ADR 0044), CI verte ; verify local OK (1967 unitaires, 263 e2e) ; captures c057-dev avant/après ; touches éditeur pas encore dans l'aide-mémoire (#176)"
         }
       },
       "metriques": {}
