@@ -2312,10 +2312,10 @@
           "note": "PR #193 : dette ancienne #81 (crépuscule 19 h mauve + factorisations), #76 (corydoras flanc crème), #59 (emprise à l'ajout, OBSTACLE_PASSES ; contour renvoyé en #192), CI verte ; 2071 unitaires ; e2e locaux ciblés seulement"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T14:52:11.510Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T15:21:38.236Z",
+          "note": "Verdict OK, 0 bug, captures c062 publiées (54/55, trajectoires-top connue), e2e complets non rejoués (délai), mutation non mesurée"
         }
       },
       "metriques": {}
