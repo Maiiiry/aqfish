@@ -2208,6 +2208,12 @@
           "debut": "2026-10-24T05:31:44.215Z",
           "fin": "2026-10-24T06:15:38.351Z",
           "note": "Verdict OK, 0 bug, captures c059 publiées (52/53 identiques, front-panneau piège connu), e2e conservation de pose ajouté"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T06:15:59.599Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
