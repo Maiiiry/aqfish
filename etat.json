@@ -2264,10 +2264,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T09:36:22.468Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T09:36:54.110Z",
+          "note": "Issue #178 : dette éditeur (emprise, allocation, auteur) + #183 + #185.3 (S/M)"
         }
       },
       "metriques": {}
