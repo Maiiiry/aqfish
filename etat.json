@@ -2333,7 +2333,7 @@
       "type": "fonctionnalite",
       "issue": 182,
       "pr": 195,
-      "version": null,
+      "version": "v0.10.0",
       "phases": {
         "planif": {
           "statut": "termine",
