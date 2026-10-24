@@ -2289,6 +2289,24 @@
         }
       },
       "metriques": {}
+    },
+    "62": {
+      "numero": 62,
+      "date": "2026-10-24",
+      "debut": "2026-10-24T13:35:22.228Z",
+      "type": "retro",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T13:35:22.228Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
