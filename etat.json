@@ -2388,6 +2388,12 @@
           "debut": "2026-10-24T19:47:33.065Z",
           "fin": "2026-10-24T20:02:53.969Z",
           "note": "Verdict OK, 0 bug bloquant (2 remarques esthétiques), captures c064 publiées, verify non rejoué d'un bloc (navigateur 1194 absent, contournement) ; piece+panneau e2e verts, pas de test ajouté"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T20:03:15.833Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
