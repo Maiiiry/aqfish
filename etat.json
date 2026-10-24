@@ -2217,6 +2217,24 @@
         }
       },
       "metriques": {}
+    },
+    "60": {
+      "numero": 60,
+      "date": "2026-10-24",
+      "debut": "2026-10-24T06:53:47.422Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T06:53:47.422Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
