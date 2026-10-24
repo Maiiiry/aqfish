@@ -2244,6 +2244,12 @@
           "debut": "2026-10-24T08:12:14.750Z",
           "fin": "2026-10-24T08:45:28.518Z",
           "note": "Verdict OK, 0 bug bloquant (décor non redistribué dans le grand bac, mineur), captures c060 publiées (51 identiques), e2e import de dimensions ajouté"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T08:46:19.019Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
