@@ -2346,6 +2346,12 @@
           "debut": "2026-10-24T16:01:00.049Z",
           "fin": "2026-10-24T16:46:23.944Z",
           "note": "PR #195 : relâcher les éléments dont le support disparaît (#182), CI verte ; 2092 unitaires ; e2e locaux décor (16) verts ; verify main local : coraux-qa en délai dépassé sous charge (CI main verte)"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T16:47:05.114Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
