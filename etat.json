@@ -2246,10 +2246,10 @@
           "note": "Verdict OK, 0 bug bloquant (décor non redistribué dans le grand bac, mineur), captures c060 publiées (51 identiques), e2e import de dimensions ajouté"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T08:46:19.019Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T09:35:53.351Z",
+          "note": "PR #184 fusionnée → v0.9.4 (release créée, main verte) ; dette #185 (grand bac sombre, placeKey par pas, trailer Co-authored-by agrégé au squash)"
         }
       },
       "metriques": {}
