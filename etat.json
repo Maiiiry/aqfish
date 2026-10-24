@@ -2361,6 +2361,24 @@
         }
       },
       "metriques": {}
+    },
+    "64": {
+      "numero": 64,
+      "date": "2026-10-24",
+      "debut": "2026-10-24T17:49:41.653Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T17:49:41.653Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
