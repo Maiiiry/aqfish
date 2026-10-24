@@ -2310,6 +2310,12 @@
           "debut": "2026-10-24T13:37:07.663Z",
           "fin": "2026-10-24T14:51:38.793Z",
           "note": "PR #193 : dette ancienne #81 (crépuscule 19 h mauve + factorisations), #76 (corydoras flanc crème), #59 (emprise à l'ajout, OBSTACLE_PASSES ; contour renvoyé en #192), CI verte ; 2071 unitaires ; e2e locaux ciblés seulement"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T14:52:11.510Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
