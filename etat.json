@@ -2336,10 +2336,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T15:59:51.789Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T16:00:33.348Z",
+          "note": "Issue #182 : Éditeur, relâcher les éléments dont le support disparaît (S)"
         }
       },
       "metriques": {}
