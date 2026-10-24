@@ -2444,10 +2444,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T23:58:09.174Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T23:58:49.250Z",
+          "note": "Issue #188 : pièce, édition à la souris et e2e (M)"
         }
       },
       "metriques": {}
