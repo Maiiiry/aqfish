@@ -4,3 +4,4 @@
 - Graine : 42 ; temps : 30 s (valeurs par défaut du harnais)
 - 66 captures sur 67 ; « tracé des trajectoires, vue de dessus » échoue en local (piège connu, docs/PIEGES.md), absente de cette série.
 - front-panneau.png : hors contrat de capture (temps réel), position des poissons variable.
+- trajectoires-top.png conservée de la série précédente (échec local).
