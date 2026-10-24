@@ -2414,10 +2414,10 @@
           "note": "Issue #188 : Pièce, meubles et plantes d'intérieur posés par gravité (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T22:06:29.011Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T22:57:32.773Z",
+          "note": "PR #199 : meubles et plantes de la pièce posés par gravité (partiel : interface d'édition et e2e à suivre), CI verte ; 2186 unitaires ; 5 captures regardées ; e2e local interrompu à 83 sans échec"
         }
       },
       "metriques": {}
