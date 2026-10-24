@@ -2234,10 +2234,10 @@
           "note": "Issue #171 : éditeur de bac, dimensions réglables (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T06:54:34.711Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T08:11:46.947Z",
+          "note": "PR #184 : dimensions réglables du bac tropical (ADR 0047), CI verte ; 2054 unitaires ; captures par défaut identiques (51/52, front-panneau piège connu) + petit/grand bac ; ~900 lignes hors tests (au-delà de 600, justifié dans la PR)"
         }
       },
       "metriques": {}
