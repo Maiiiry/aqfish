@@ -2372,10 +2372,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T17:49:41.653Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T17:50:11.701Z",
+          "note": "Issue #187 : Pièce autour du bac, sol, mur et meuble support (M)"
         }
       },
       "metriques": {}
