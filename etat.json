@@ -2259,7 +2259,7 @@
       "date": "2026-10-24",
       "debut": "2026-10-24T09:36:22.468Z",
       "type": "dette",
-      "issue": null,
+      "issue": 178,
       "pr": null,
       "version": null,
       "phases": {
