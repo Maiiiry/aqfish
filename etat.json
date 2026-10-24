@@ -2354,10 +2354,10 @@
           "note": "Verdict OK, 0 bug, captures c063 publiées (54/55, trajectoires-top connue), verify complet non rejoué (navigateur Playwright absent puis e2e ciblé OK), pas de test ajouté"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T17:01:30.494Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T17:49:08.245Z",
+          "note": "PR #195 fusionnée → v0.10.0 (release créée, main verte) ; #182 fermée ; dette mineure #196"
         }
       },
       "metriques": {}
