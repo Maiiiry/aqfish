@@ -1,8 +1,7 @@
-# Captures c063
+# Captures c064
 
-- Branche : PR #195 (feat(sim): relâcher les éléments du décor dont le support disparaît)
-- Commit : 80b276c
-- Graine : 42 (défaut des captures)
-- Résultat : 54/55 ; « tracé des trajectoires, vue de dessus » échoue (Unable to capture screenshot, piège connu)
-- Les angles principaux sont identiques à l'octet à la série précédente.
-- Navigateur : lien chromium_headless_shell-1194 créé (piège PIEGES.md)
+- Branche : cycle/c064 (PR #197), commit f6c8fd3
+- Graine : celle de captures.spec.ts (par défaut)
+- Temps : 62 captures en 1,8 min (rendu logiciel)
+- Les 5 captures habituelles sont identiques à l octet à celles de latest/ (cmp)
+- Navigateur : contournement 1194 vers 1243 via PLAYWRIGHT_BROWSERS_PATH (hors dépôt)
