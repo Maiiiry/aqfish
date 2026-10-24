@@ -2240,10 +2240,10 @@
           "note": "PR #184 : dimensions réglables du bac tropical (ADR 0047), CI verte ; 2054 unitaires ; captures par défaut identiques (51/52, front-panneau piège connu) + petit/grand bac ; ~900 lignes hors tests (au-delà de 600, justifié dans la PR)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T08:12:14.750Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T08:45:28.518Z",
+          "note": "Verdict OK, 0 bug bloquant (décor non redistribué dans le grand bac, mineur), captures c060 publiées (51 identiques), e2e import de dimensions ajouté"
         }
       },
       "metriques": {}
