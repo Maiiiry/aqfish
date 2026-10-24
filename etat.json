@@ -2168,10 +2168,10 @@
           "note": "PR #179 : bois flotté à branches, collision fine (ADR 0045), CI verte ; verify local OK (1992 unitaires, 264 e2e) ; captures c058-dev ; 50/51 captures sans bois identiques à main (front-panneau : piège connu)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T03:20:32.915Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T03:35:03.342Z",
+          "note": "Verdict OK, 0 bug, captures c058 publiées (52/53 identiques, front-panneau piège connu), e2e bois-flotte ajouté (2 tests)"
         }
       },
       "metriques": {}
