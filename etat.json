@@ -2204,10 +2204,10 @@
           "note": "PR #181 : pose par gravité avec Rapier chargé à la demande (ADR 0046), CI verte ; 2015 unitaires ; captures identiques (52/53, front-panneau piège connu) ; e2e editeur-decor corrigé (refus vérifié sans moteur) ; suite #182"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T05:31:44.215Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T06:15:38.351Z",
+          "note": "Verdict OK, 0 bug, captures c059 publiées (52/53 identiques, front-panneau piège connu), e2e conservation de pose ajouté"
         }
       },
       "metriques": {}
