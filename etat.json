@@ -2232,6 +2232,12 @@
           "debut": "2026-10-24T06:53:47.422Z",
           "fin": "2026-10-24T06:54:11.614Z",
           "note": "Issue #171 : éditeur de bac, dimensions réglables (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T06:54:34.711Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
