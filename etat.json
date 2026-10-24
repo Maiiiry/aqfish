@@ -2276,10 +2276,10 @@
           "note": "PR #186 : dette éditeur (emprise mémorisée, Vector2 membre, placeKey mémorisée, rechute après rotation/échelle #183, PIEGES auteur git), CI verte ; 2062 unitaires ; captures identiques c060 (front-panneau piège connu)"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T11:57:23.579Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T12:54:33.963Z",
+          "note": "Verdict OK, 0 bug, captures c061 publiées (54/55, trajectoires-top non produite), e2e locaux non rejoués (CI verte), mutation non mesurée"
         }
       },
       "metriques": {}
