@@ -2280,6 +2280,12 @@
           "debut": "2026-10-24T11:57:23.579Z",
           "fin": "2026-10-24T12:54:33.963Z",
           "note": "Verdict OK, 0 bug, captures c061 publiées (54/55, trajectoires-top non produite), e2e locaux non rejoués (CI verte), mutation non mesurée"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T12:54:58.943Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
