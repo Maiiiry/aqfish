@@ -2408,10 +2408,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T22:05:25.370Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T22:05:52.302Z",
+          "note": "Issue #188 : Pièce, meubles et plantes d'intérieur posés par gravité (M)"
         }
       },
       "metriques": {}
