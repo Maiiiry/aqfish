@@ -2172,6 +2172,12 @@
           "debut": "2026-10-24T03:20:32.915Z",
           "fin": "2026-10-24T03:35:03.342Z",
           "note": "Verdict OK, 0 bug, captures c058 publiées (52/53 identiques, front-panneau piège connu), e2e bois-flotte ajouté (2 tests)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T03:35:31.155Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
