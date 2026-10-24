@@ -2412,6 +2412,12 @@
           "debut": "2026-10-24T22:05:25.370Z",
           "fin": "2026-10-24T22:05:52.302Z",
           "note": "Issue #188 : Pièce, meubles et plantes d'intérieur posés par gravité (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T22:06:29.011Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
