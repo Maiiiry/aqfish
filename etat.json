@@ -2397,6 +2397,24 @@
         }
       },
       "metriques": {}
+    },
+    "65": {
+      "numero": 65,
+      "date": "2026-10-25",
+      "debut": "2026-10-24T22:05:25.370Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T22:05:25.370Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
