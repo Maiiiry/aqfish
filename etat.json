@@ -2189,7 +2189,7 @@
       "type": "fonctionnalite",
       "issue": 170,
       "pr": 181,
-      "version": null,
+      "version": "v0.9.3",
       "phases": {
         "planif": {
           "statut": "termine",
