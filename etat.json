@@ -2433,6 +2433,24 @@
         }
       },
       "metriques": {}
+    },
+    "66": {
+      "numero": 66,
+      "date": "2026-10-25",
+      "debut": "2026-10-24T23:58:09.174Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T23:58:09.174Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
