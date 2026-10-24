@@ -2355,6 +2355,19 @@
         "statut": "termine",
         "note": "8 cycles, 0 alerte bloquante, 2 à surveiller"
       }
+    },
+    "2026-10-24": {
+      "metriques": {
+        "cycles": 8,
+        "livres": 8,
+        "version": "v0.9.2",
+        "tests": 1992,
+        "couvertureLignes": 97.47,
+        "lignesCode": 21751,
+        "bugsOuverts": 0,
+        "ciMain": "success",
+        "mutation": null
+      }
     }
   }
 }
