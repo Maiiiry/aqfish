@@ -2316,6 +2316,12 @@
           "debut": "2026-10-24T14:52:11.510Z",
           "fin": "2026-10-24T15:21:38.236Z",
           "note": "Verdict OK, 0 bug, captures c062 publiées (54/55, trajectoires-top connue), e2e complets non rejoués (délai), mutation non mesurée"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T15:22:08.253Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
