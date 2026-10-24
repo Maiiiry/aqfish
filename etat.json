@@ -2424,6 +2424,12 @@
           "debut": "2026-10-24T22:57:57.257Z",
           "fin": "2026-10-24T23:18:51.626Z",
           "note": "Verdict RÉSERVES : PR partielle avec Closes #188 (retirer le mot-clé) ; 0 bug, CI verte, captures c065 publiées, 4 e2e ajoutés ; verify e2e complet non rejoué en local (lenteur)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-24T23:19:16.418Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
