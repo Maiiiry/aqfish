@@ -2318,10 +2318,10 @@
           "note": "Verdict OK, 0 bug, captures c062 publiées (54/55, trajectoires-top connue), e2e complets non rejoués (délai), mutation non mesurée"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-24T15:22:08.253Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-24T15:59:18.688Z",
+          "note": "PR #193 fusionnée → v0.9.6 (release créée, main verte) ; #81 #76 #59 #191 fermées ; dette mineure #194"
         }
       },
       "metriques": {}
