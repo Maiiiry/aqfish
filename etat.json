@@ -2484,6 +2484,12 @@
           "debut": "2026-10-25T03:07:57.428Z",
           "fin": "2026-10-25T03:08:22.529Z",
           "note": "Issue #189 : catalogue d'espèces, effectifs par espèce (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T03:08:44.603Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
