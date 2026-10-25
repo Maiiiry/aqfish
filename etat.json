@@ -2456,10 +2456,10 @@
           "note": "PR #201 : éditeur de la pièce (ajouter, déplacer, tourner, supprimer) + #200 cas 1-2, CI verte ; 2213 unitaires ; e2e editeur-piece vert ; capture c066 regardée ; e2e local complet interrompu à 78 sans échec"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T01:13:34.590Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T02:09:35.341Z",
+          "note": "Verdict OK, 0 bug, captures c066 publiées (68/68), 1 e2e ajouté (tourner/supprimer) ; CI du commit QA à confirmer"
         }
       },
       "metriques": {}
