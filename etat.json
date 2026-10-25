@@ -2670,6 +2670,12 @@
           "debut": "2026-10-25T15:59:28.602Z",
           "fin": "2026-10-25T16:55:21.834Z",
           "note": "PR #217 : santé (faim, eau), nage ralentie, couleurs ternies (ADR 0054), CI verte 7/7 ; 68/75 captures identiques à main, 2 nouvelles (affames=1), eau-mauvaise changent à dessein ; e2e local 85/290 sans échec puis arrêté (lenteur) ; pied d'attribution réinjecté par le serveur"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T16:55:49.707Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
