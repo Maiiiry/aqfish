@@ -2678,10 +2678,10 @@
           "note": "Verdict RÉSERVES, 0 bug, captures c072 publiées (69/75 identiques, 2 nouvelles, 2 eau voulues, 2 téléphone non déterministes), unitaires 2397 verts, e2e affames 6/6 ajouté; ternissement discret"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T17:31:52.760Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T19:19:05.274Z",
+          "note": "PR #217 fusionnée → v0.11.2 (release CI ok), #208 fermée, dette #218 ; main rouge (test santé > 5 s sous couverture) corrigée en avant par #220 (bug #219), main verte ; suppression des branches refusée par l'environnement"
         }
       },
       "metriques": {}
