@@ -1,0 +1,1 @@
+{"score": null, "survivants": null, "perimetre": "src/app/sim/room.ts (403 mutants)", "note": "non mesuré : test initial de 1 min 22 s puis dépassement du temps de phase ; Stryker non exécutable en entier en une phase QA"}
