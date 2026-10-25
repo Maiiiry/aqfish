@@ -2577,6 +2577,24 @@
         }
       },
       "metriques": {}
+    },
+    "70": {
+      "numero": 70,
+      "date": "2026-10-25",
+      "debut": "2026-10-25T10:57:25.577Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T10:57:25.577Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
