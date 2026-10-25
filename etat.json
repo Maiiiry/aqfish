@@ -2570,10 +2570,10 @@
           "note": "Verdict OK, 0 bug, captures c069 publiées (70/70 identiques à c068), unitaires 2239 verts, Stryker 95,24 % sim-speed reproduit, CI 7/7"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T10:08:10.746Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T10:56:59.773Z",
+          "note": "PR #212 fusionnée → v0.10.6 (release créée), PR #211 roadmap fusionnée, #166 et #210 fermées, main verte"
         }
       },
       "metriques": {}
