@@ -2700,6 +2700,12 @@
           "debut": "2026-10-25T23:05:25.999Z",
           "fin": "2026-10-25T23:05:55.075Z",
           "note": "Issue #209 : compatibilité des espèces et rythme du jour (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T23:06:25.213Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
