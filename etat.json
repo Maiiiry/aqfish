@@ -2498,10 +2498,10 @@
           "note": "Verdict OK, 0 bug, captures c067 publiées (70/70), e2e catalogue verts, verify e2e complet non terminé en local (lenteur), CI à confirmer"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T05:58:10.769Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T06:47:12.827Z",
+          "note": "PR #203 fusionnée → v0.10.4 (release créée, main verte) ; #189 fermée ; dette #204 ; Bash par intermittence indisponible (classifieur), reprises via send_later"
         }
       },
       "metriques": {}
