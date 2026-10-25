@@ -2672,10 +2672,10 @@
           "note": "PR #217 : santé (faim, eau), nage ralentie, couleurs ternies (ADR 0054), CI verte 7/7 ; 68/75 captures identiques à main, 2 nouvelles (affames=1), eau-mauvaise changent à dessein ; e2e local 85/290 sans échec puis arrêté (lenteur) ; pied d'attribution réinjecté par le serveur"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T16:55:49.707Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T17:31:27.152Z",
+          "note": "Verdict RÉSERVES, 0 bug, captures c072 publiées (69/75 identiques, 2 nouvelles, 2 eau voulues, 2 téléphone non déterministes), unitaires 2397 verts, e2e affames 6/6 ajouté; ternissement discret"
         }
       },
       "metriques": {}
