@@ -2562,6 +2562,12 @@
           "debut": "2026-10-25T08:49:42.691Z",
           "fin": "2026-10-25T09:57:09.173Z",
           "note": "PR #212 : Stryker 9.6.1, FixtureParseError corrigée (#166), 1er score sim-speed.ts 95,24 %, CI verte ; e2e local trop lent (CI 4/4 verts) ; pied d'attribution réinjecté par le serveur"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T09:57:40.120Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
