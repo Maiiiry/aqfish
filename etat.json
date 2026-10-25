@@ -2696,10 +2696,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T23:05:25.999Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T23:05:55.075Z",
+          "note": "Issue #209 : compatibilité des espèces et rythme du jour (M)"
         }
       },
       "metriques": {}
