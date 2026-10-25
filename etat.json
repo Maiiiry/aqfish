@@ -2660,10 +2660,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T15:58:23.458Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T15:59:01.540Z",
+          "note": "Issue #208 : bien-être, faim et santé (M)"
         }
       },
       "metriques": {}
