@@ -1,4 +1,4 @@
-# Captures c068
-- Branche : cycle/c068-dette-selection-piece, PR #205, commit 6190031b2a5b8ec66591e7fb1edfc3f3989158e7
+# Captures c069
+- Branche : cycle/c069-mutation-stryker, PR #212, commit bfdd40b91cd26282139fe40aaec6176ae19cfbe3
 - Graine : 42 (défaut des captures)
-- Durée : 2,3 min, 70 captures ; 68 identiques à l'octet à latest (c067), 2 différentes (front-panneau, telephone-catalogue : non reproductibles d'une exécution à l'autre, cf. docs/PIEGES.md)
+- Durée : 2,5 min, 70 captures, 70 identiques à l'octet à latest (c068) : attendu, la PR ne touche que des dépendances de développement et la documentation
