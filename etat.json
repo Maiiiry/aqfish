@@ -2492,10 +2492,10 @@
           "note": "PR #203 : catalogue d'espèces (curseur par espèce, sim/species-catalog), #95 points 1-2, CI verte ; 1er passage CI rouge (#101 sauvegarde à 1280×720) corrigé ; captures c067 regardées ; pied d'attribution réinjecté par le serveur dans le corps de PR"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T05:27:10.916Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T05:57:46.720Z",
+          "note": "Verdict OK, 0 bug, captures c067 publiées (70/70), e2e catalogue verts, verify e2e complet non terminé en local (lenteur), CI à confirmer"
         }
       },
       "metriques": {}
