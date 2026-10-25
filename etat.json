@@ -2556,6 +2556,12 @@
           "debut": "2026-10-25T08:47:37.933Z",
           "fin": "2026-10-25T08:49:14.034Z",
           "note": "Rétro sprint 10 (#210), plan sprint 11 (#206-209, #190), PR roadmap #211, Dev : dette #166"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T08:49:42.691Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
