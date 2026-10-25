@@ -2513,7 +2513,7 @@
       "type": "dette",
       "issue": 202,
       "pr": 205,
-      "version": null,
+      "version": "v0.10.5",
       "phases": {
         "planif": {
           "statut": "termine",
