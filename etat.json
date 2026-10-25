@@ -2613,6 +2613,24 @@
         }
       },
       "metriques": {}
+    },
+    "71": {
+      "numero": 71,
+      "date": "2026-10-25",
+      "debut": "2026-10-25T12:47:52.068Z",
+      "type": "fonctionnalite",
+      "issue": null,
+      "pr": null,
+      "version": null,
+      "phases": {
+        "planif": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T12:47:52.068Z",
+          "fin": null,
+          "note": null
+        }
+      },
+      "metriques": {}
     }
   },
   "jours": {
