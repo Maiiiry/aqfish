@@ -2606,10 +2606,10 @@
           "note": "Verdict OK, 0 bug, captures c070 publiées (69/70 identiques à c069, telephone-catalogue instable connue), unitaires 2303 verts, sauvegarde e2e 11/11, CI 7/7"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T11:58:35.417Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T12:47:18.738Z",
+          "note": "PR #213 fusionnée → v0.11.0 (release créée par la CI), #206 fermée, dette #214, main verte"
         }
       },
       "metriques": {}
