@@ -2600,10 +2600,10 @@
           "note": "PR #213 : modèle d'eau (sim/water.ts, ADR 0052), CI verte 7/7 ; e2e local complet trop lent (sauvegarde.spec seul vert), captures 68/70 identiques (2 non reproductibles connues) ; pied d'attribution réinjecté par le serveur"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T11:45:07.793Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T11:58:06.861Z",
+          "note": "Verdict OK, 0 bug, captures c070 publiées (69/70 identiques à c069, telephone-catalogue instable connue), unitaires 2303 verts, sauvegarde e2e 11/11, CI 7/7"
         }
       },
       "metriques": {}
