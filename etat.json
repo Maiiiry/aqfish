@@ -2460,6 +2460,12 @@
           "debut": "2026-10-25T01:13:34.590Z",
           "fin": "2026-10-25T02:09:35.341Z",
           "note": "Verdict OK, 0 bug, captures c066 publiées (68/68), 1 e2e ajouté (tourner/supprimer) ; CI du commit QA à confirmer"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T02:10:09.341Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
