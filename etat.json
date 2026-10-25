@@ -2592,6 +2592,12 @@
           "debut": "2026-10-25T10:57:25.577Z",
           "fin": "2026-10-25T10:57:56.379Z",
           "note": "Issue #206 : modèle d'eau (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T10:58:27.263Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
