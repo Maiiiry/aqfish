@@ -2496,6 +2496,12 @@
           "debut": "2026-10-25T05:27:10.916Z",
           "fin": "2026-10-25T05:57:46.720Z",
           "note": "Verdict OK, 0 bug, captures c067 publiées (70/70), e2e catalogue verts, verify e2e complet non terminé en local (lenteur), CI à confirmer"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T05:58:10.769Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
