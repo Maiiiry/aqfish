@@ -2664,6 +2664,12 @@
           "debut": "2026-10-25T15:58:23.458Z",
           "fin": "2026-10-25T15:59:01.540Z",
           "note": "Issue #208 : bien-être, faim et santé (M)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T15:59:28.602Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
