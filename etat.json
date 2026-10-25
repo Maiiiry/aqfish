@@ -2634,6 +2634,12 @@
           "debut": "2026-10-25T12:49:02.198Z",
           "fin": "2026-10-25T14:39:49.335Z",
           "note": "PR #215 : eau — jauges, chauffage, changement d'eau (ADR 0053), CI verte 7/7 ; 68/68 captures de scène identiques à c070, front-panneau et telephone-catalogue changent (panneau sur 2 colonnes), 3 nouvelles ; parcours clavier e2e mis à jour (commit séparé) ; verify main local : e2e interrompu (concurrence CPU), CI main verte ; pied d'attribution réinjecté par le serveur"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T14:40:30.294Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
