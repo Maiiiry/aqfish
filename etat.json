@@ -2598,6 +2598,12 @@
           "debut": "2026-10-25T10:58:27.263Z",
           "fin": "2026-10-25T11:44:44.542Z",
           "note": "PR #213 : modèle d'eau (sim/water.ts, ADR 0052), CI verte 7/7 ; e2e local complet trop lent (sauvegarde.spec seul vert), captures 68/70 identiques (2 non reproductibles connues) ; pied d'attribution réinjecté par le serveur"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T11:45:07.793Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
