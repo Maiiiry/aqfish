@@ -1,7 +1,2 @@
-# Captures c071
-
-- Branche : `cycle/c071-jauges-eau` (PR #215)
-- Commit : 0e4fdbbd8532410076d2ebc7f21d1ff5f36f0eb1
-- Graine : 42 (valeur par défaut des captures)
-- Temps : 73 captures en 2,9 min (rendu logiciel local)
-- Écart avec c070 : 2 changées (`front-panneau`, `telephone-catalogue`, section « Eau » ajoutée), 3 nouvelles (`telephone-eau`, `three-quarter-eau-mauvaise`, `top-eau-mauvaise`), 68 identiques à l'octet.
+Branche cycle/c072-faim-et-sante, PR #217, commit bb02a37 (+ test e2e 5897a43), graine 42, captures 75 en ~3,2 min.
+69/75 identiques à c071 ; nouvelles : side-affames, three-quarter-affames ; changées à dessein : three-quarter-eau-mauvaise, top-eau-mauvaise ; telephone-catalogue/eau : zone du bac en temps réel, non déterministes (deux exécutions successives diffèrent).
