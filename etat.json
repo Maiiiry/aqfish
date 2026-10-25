@@ -2676,6 +2676,12 @@
           "debut": "2026-10-25T16:55:49.707Z",
           "fin": "2026-10-25T17:31:27.152Z",
           "note": "Verdict RÉSERVES, 0 bug, captures c072 publiées (69/75 identiques, 2 nouvelles, 2 eau voulues, 2 téléphone non déterministes), unitaires 2397 verts, e2e affames 6/6 ajouté; ternissement discret"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T17:31:52.760Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
