@@ -2462,10 +2462,10 @@
           "note": "Verdict OK, 0 bug, captures c066 publiées (68/68), 1 e2e ajouté (tourner/supprimer) ; CI du commit QA à confirmer"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T02:10:09.341Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T03:07:34.363Z",
+          "note": "PR #201 fusionnée → v0.10.3 (release créée, main verte) ; #188 fermée ; dette #202 ; pied de page automatique d'attribution réinjecté par le serveur dans les corps de PR/revues (non supprimable)"
         }
       },
       "metriques": {}
