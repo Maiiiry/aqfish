@@ -2588,10 +2588,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T10:57:25.577Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T10:57:56.379Z",
+          "note": "Issue #206 : modèle d'eau (M)"
         }
       },
       "metriques": {}
