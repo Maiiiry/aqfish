@@ -2528,10 +2528,10 @@
           "note": "PR #205 : dette sélection pièce/coque/sandHit (#202), CI verte ; 68/70 captures identiques à c067 (2 non reproductibles sur main aussi, PIEGES) ; e2e local partiel (lenteur), CI e2e 4/4 verts ; pied d'attribution réinjecté par le serveur dans le corps de PR"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T07:31:49.042Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T07:53:09.906Z",
+          "note": "Verdict OK, 0 bug, captures c068 publiées (70/70, 68 identiques), e2e pièce 5/5, unitaires 2239 verts, mutation non mesurée (durée)"
         }
       },
       "metriques": {}
