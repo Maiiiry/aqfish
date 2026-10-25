@@ -2568,6 +2568,12 @@
           "debut": "2026-10-25T09:57:40.120Z",
           "fin": "2026-10-25T10:07:39.835Z",
           "note": "Verdict OK, 0 bug, captures c069 publiées (70/70 identiques à c068), unitaires 2239 verts, Stryker 95,24 % sim-speed reproduit, CI 7/7"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T10:08:10.746Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
