@@ -2486,10 +2486,10 @@
           "note": "Issue #189 : catalogue d'espèces, effectifs par espèce (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T03:08:44.603Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T05:26:44.406Z",
+          "note": "PR #203 : catalogue d'espèces (curseur par espèce, sim/species-catalog), #95 points 1-2, CI verte ; 1er passage CI rouge (#101 sauvegarde à 1280×720) corrigé ; captures c067 regardées ; pied d'attribution réinjecté par le serveur dans le corps de PR"
         }
       },
       "metriques": {}
