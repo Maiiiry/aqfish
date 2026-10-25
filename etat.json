@@ -2526,6 +2526,12 @@
           "debut": "2026-10-25T06:48:35.548Z",
           "fin": "2026-10-25T07:31:24.611Z",
           "note": "PR #205 : dette sélection pièce/coque/sandHit (#202), CI verte ; 68/70 captures identiques à c067 (2 non reproductibles sur main aussi, PIEGES) ; e2e local partiel (lenteur), CI e2e 4/4 verts ; pied d'attribution réinjecté par le serveur dans le corps de PR"
+        },
+        "qa": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T07:31:49.042Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
