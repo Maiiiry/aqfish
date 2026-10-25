@@ -2642,10 +2642,10 @@
           "note": "Verdict OK, 0 bug, captures c071 publiées (68/73 identiques à c070, 2 interface changées, 3 nouvelles), unitaires 2362 verts, eau e2e 3/3, CI 7/7; réserve mineure : budget scss control-panel"
         },
         "revue": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T15:06:05.605Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T15:57:51.830Z",
+          "note": "PR #215 fusionnée → v0.11.1 (release créée par la CI), #207 fermée, dette #216, main verte"
         }
       },
       "metriques": {}
