@@ -2480,10 +2480,10 @@
       "version": null,
       "phases": {
         "planif": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T03:07:57.428Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T03:08:22.529Z",
+          "note": "Issue #189 : catalogue d'espèces, effectifs par espèce (M)"
         }
       },
       "metriques": {}
