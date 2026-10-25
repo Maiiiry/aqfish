@@ -2636,10 +2636,10 @@
           "note": "PR #215 : eau — jauges, chauffage, changement d'eau (ADR 0053), CI verte 7/7 ; 68/68 captures de scène identiques à c070, front-panneau et telephone-catalogue changent (panneau sur 2 colonnes), 3 nouvelles ; parcours clavier e2e mis à jour (commit séparé) ; verify main local : e2e interrompu (concurrence CPU), CI main verte ; pied d'attribution réinjecté par le serveur"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T14:40:30.294Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-25T15:05:29.749Z",
+          "note": "Verdict OK, 0 bug, captures c071 publiées (68/73 identiques à c070, 2 interface changées, 3 nouvelles), unitaires 2362 verts, eau e2e 3/3, CI 7/7; réserve mineure : budget scss control-panel"
         }
       },
       "metriques": {}
