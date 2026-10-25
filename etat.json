@@ -2520,6 +2520,12 @@
           "debut": "2026-10-25T06:47:43.937Z",
           "fin": "2026-10-25T06:48:11.477Z",
           "note": "Issue #202 : dette sélection de la pièce, coque et sandDistance (S)"
+        },
+        "dev": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T06:48:35.548Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
