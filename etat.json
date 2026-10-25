@@ -2532,6 +2532,12 @@
           "debut": "2026-10-25T07:31:49.042Z",
           "fin": "2026-10-25T07:53:09.906Z",
           "note": "Verdict OK, 0 bug, captures c068 publiées (70/70, 68 identiques), e2e pièce 5/5, unitaires 2239 verts, mutation non mesurée (durée)"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T07:53:35.499Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
