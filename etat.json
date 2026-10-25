@@ -2604,6 +2604,12 @@
           "debut": "2026-10-25T11:45:07.793Z",
           "fin": "2026-10-25T11:58:06.861Z",
           "note": "Verdict OK, 0 bug, captures c070 publiées (69/70 identiques à c069, telephone-catalogue instable connue), unitaires 2303 verts, sauvegarde e2e 11/11, CI 7/7"
+        },
+        "revue": {
+          "statut": "en-cours",
+          "debut": "2026-10-25T11:58:35.417Z",
+          "fin": null,
+          "note": null
         }
       },
       "metriques": {}
