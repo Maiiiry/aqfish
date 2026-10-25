@@ -2549,7 +2549,7 @@
       "type": "retro",
       "issue": 210,
       "pr": 212,
-      "version": null,
+      "version": "v0.10.6",
       "phases": {
         "planif": {
           "statut": "termine",
