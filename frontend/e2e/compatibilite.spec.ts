@@ -57,4 +57,14 @@ test.describe('Compatibilité des espèces (#209)', () => {
     ]);
     expect(errors).toEqual([]);
   });
+  for (const environnement of ['tropical', 'bassin', 'recif', 'lagune']) {
+    test(`${environnement} à minuit : aucun mélange déconseillé, aucune erreur`, async ({
+      page,
+    }) => {
+      const errors = await open(page, `?seed=42&environnement=${environnement}&heure=0`);
+      await toggle(page).click();
+      await expect(warnings(page)).toHaveCount(0);
+      expect(errors).toEqual([]);
+    });
+  }
 });
