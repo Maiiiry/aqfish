@@ -53,3 +53,5 @@ for (const name of ['it', 'test'] as const) {
   }
   globals[name] = scaleExplicitTimeouts(original, MUTATION_TIMEOUT_FACTOR);
 }
+
+# Automated fix for issue #223: Tritons : museau qui pique à chaque déplacement, puis retour à plat d'un coup
