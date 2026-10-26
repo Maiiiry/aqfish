@@ -2708,10 +2708,10 @@
           "note": "PR #221 : compatibilité des espèces et rythme du jour (ADR 0055), CI verte 7/7 au 2e essai (test jour-nuit corrigé à t=0, commit séparé) ; captures de jour identiques à c072, nuit changée à dessein, side-minuit ajoutée ; évitement limité aux nageurs (paludarium signalé sans évitement) ; pied d'attribution réinjecté par le serveur"
         },
         "qa": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-26T00:22:07.904Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-26T00:37:00.838Z",
+          "note": "Verdict RÉSERVES, 0 bug, captures c073 publiées (64/76 identiques, side-minuit nouvelle, nuit voulue), e2e minuit 4 environnements ajouté; évitement sans effet au paludarium, descente nocturne modeste"
         }
       },
       "metriques": {}
