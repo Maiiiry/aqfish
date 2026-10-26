@@ -2702,10 +2702,10 @@
           "note": "Issue #209 : compatibilité des espèces et rythme du jour (M)"
         },
         "dev": {
-          "statut": "en-cours",
+          "statut": "termine",
           "debut": "2026-10-25T23:06:25.213Z",
-          "fin": null,
-          "note": null
+          "fin": "2026-10-26T00:21:40.658Z",
+          "note": "PR #221 : compatibilité des espèces et rythme du jour (ADR 0055), CI verte 7/7 au 2e essai (test jour-nuit corrigé à t=0, commit séparé) ; captures de jour identiques à c072, nuit changée à dessein, side-minuit ajoutée ; évitement limité aux nageurs (paludarium signalé sans évitement) ; pied d'attribution réinjecté par le serveur"
         }
       },
       "metriques": {}
